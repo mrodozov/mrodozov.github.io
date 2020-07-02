@@ -1,0 +1,3890 @@
+[
+  {
+    "hashtag": "65b3f057578a67160132f168cd0d2dcf", 
+    "name": "CSCTrackFinderEmulation", 
+    "package_type": "cms", 
+    "ver_suffix": "1.2-pafccj"
+  }, 
+  {
+    "hashtag": "0fc3f555b19007f129d6ce9944e01027", 
+    "name": "CSCTrackFinderEmulation-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "2.0-pafccj"
+  }, 
+  {
+    "hashtag": "341effa2ffbf7daa07916b7f4cfb02c8", 
+    "name": "OpenBLAS", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.7"
+  }, 
+  {
+    "hashtag": "dd894912571b8cd046255b897c5190d7", 
+    "name": "OpenBLAS-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "f530c5c3390ced5138a8a4eb06f0690e", 
+    "name": "SCRAMV1", 
+    "package_type": "lcg", 
+    "ver_suffix": "V2_2_9_pre05"
+  }, 
+  {
+    "hashtag": "fc09e992fc512cd31782417993623552", 
+    "name": "alpgen", 
+    "package_type": "external", 
+    "ver_suffix": "214-pafccj"
+  }, 
+  {
+    "hashtag": "0dee11e34b06db015b8669100e2157c6", 
+    "name": "alpgen-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "8abb9817d9a49bd4ef87a99a53a49ac9", 
+    "name": "autotools", 
+    "package_type": "external", 
+    "ver_suffix": "1.4-pafccj"
+  }, 
+  {
+    "hashtag": "fb0b901aa071626d7790e30e4a26398d", 
+    "name": "blackhat", 
+    "package_type": "external", 
+    "ver_suffix": "0.9.9-pafccj"
+  }, 
+  {
+    "hashtag": "595fed7b3fe57b3380a8a3afc07b0416", 
+    "name": "blackhat-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "5d46a3e9b917c9a60d94be337a029389", 
+    "name": "boost", 
+    "package_type": "external", 
+    "ver_suffix": "1.72.0"
+  }, 
+  {
+    "hashtag": "84ae7dc604ae5add5948972b68fedfee", 
+    "name": "boost-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.4"
+  }, 
+  {
+    "hashtag": "75c59de7f36907eb3a4f4c5296472aca", 
+    "name": "bz2lib", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.6-pafccj"
+  }, 
+  {
+    "hashtag": "f626e40089eefa278f6ad013878789e8", 
+    "name": "bz2lib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "4c8de528cdc5b8039b22ac3d481f35bb", 
+    "name": "cascade", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.04-nmpfii3"
+  }, 
+  {
+    "hashtag": "39bd421dbf60a2f2e72f2ed609e34f13", 
+    "name": "cascade-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "a56d80d9094e6c2c1ba755747c78e4d6", 
+    "name": "catch2", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.2-pafccj"
+  }, 
+  {
+    "hashtag": "1e72b174f21f942865e13cd4671073f5", 
+    "name": "catch2-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "d2e9e34fb654e8218549defe4ac23225", 
+    "name": "ccache", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.8-pafccj"
+  }, 
+  {
+    "hashtag": "495daa6270b23c6a5d5ccc0001f04701", 
+    "name": "ccache-gcc-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "501c972bb601f3bcdfda53cdab2fc448", 
+    "name": "cgal", 
+    "package_type": "external", 
+    "ver_suffix": "4.2-hpgckg"
+  }, 
+  {
+    "hashtag": "945df5cc3804d4ee6fc3bf158d9b9daf", 
+    "name": "cgal-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-hpgckg"
+  }, 
+  {
+    "hashtag": "b7ec05bc1a10ee15a81f2f46584638dc", 
+    "name": "charybdis", 
+    "package_type": "external", 
+    "ver_suffix": "1.003-nmpfii3"
+  }, 
+  {
+    "hashtag": "b2f212b11b450da558c2871de9dd5365", 
+    "name": "charybdis-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "8f1faba427e5b15ada185bfd9642649b", 
+    "name": "classlib", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "c78aa4833c051b533d36cffe541eacdd", 
+    "name": "classlib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "428c4fb6e9f9cf69bfdcec7fb4fc99e0", 
+    "name": "clhep", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.0.0-nmpfii"
+  }, 
+  {
+    "hashtag": "8247d294dbb8c7273454b301da87d823", 
+    "name": "clhep-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "c59adf68a1980dcea15e19bf15f89b6b", 
+    "name": "cmake", 
+    "package_type": "external", 
+    "ver_suffix": "3.14.5"
+  }, 
+  {
+    "hashtag": "aacfe734b86e678dcbd59c93ce39cb1b", 
+    "name": "cmsswdata", 
+    "package_type": "cms", 
+    "ver_suffix": "36-cms"
+  }, 
+  {
+    "hashtag": "d389e29d4e55ea9291f9728d5aa07806", 
+    "name": "cmsswdata-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "3.0-cms"
+  }, 
+  {
+    "hashtag": "09e61d8040fddeee1ba129d2aa649214", 
+    "name": "codechecker", 
+    "package_type": "external", 
+    "ver_suffix": "0.1-bcolbf3"
+  }, 
+  {
+    "hashtag": "7dac933b07ba96b81a6cc32c8e89af42", 
+    "name": "codechecker-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "7262122102a9d78efb092a67d684bd3d", 
+    "name": "coral", 
+    "package_type": "cms", 
+    "ver_suffix": "CORAL_2_3_21-cms"
+  }, 
+  {
+    "hashtag": "67318216ca45dc2e3f403d68ae70e2c1", 
+    "name": "coral-tool-conf", 
+    "package_type": "cms", 
+    "ver_suffix": "2.1-hpgckg"
+  }, 
+  {
+    "hashtag": "3a7a032f42c64a45bd14f23fe0bc89e0", 
+    "name": "coral-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-cms"
+  }, 
+  {
+    "hashtag": "f9ac3f883b951a9bf37e5af0064f52c3", 
+    "name": "cppunit", 
+    "package_type": "external", 
+    "ver_suffix": "1.15.x"
+  }, 
+  {
+    "hashtag": "8733ca8c83217ea18e2446448d0f04b2", 
+    "name": "cppunit-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "4fc4d4ae968414d1c7be05c781d4d64c", 
+    "name": "crab", 
+    "package_type": "cms", 
+    "ver_suffix": "1.0-fbckeo"
+  }, 
+  {
+    "hashtag": "7915c9f73af8dbd81aa1f2ab1f7f2109", 
+    "name": "crab-dev", 
+    "package_type": "cms", 
+    "ver_suffix": "3.3.2003.rc1"
+  }, 
+  {
+    "hashtag": "e3675b39e134fc0cdae1f49e3ae65ab5", 
+    "name": "crab-pre", 
+    "package_type": "cms", 
+    "ver_suffix": "3.3.2002"
+  }, 
+  {
+    "hashtag": "d0fba1ad29412c70590a408c817bbe6f", 
+    "name": "crab-prod", 
+    "package_type": "cms", 
+    "ver_suffix": "3.3.2002"
+  }, 
+  {
+    "hashtag": "ea7202083f0c5879de976511c5143e10", 
+    "name": "cub", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.0-pfdnen"
+  }, 
+  {
+    "hashtag": "905ad30525db58a4f732690cdc2fdfb3", 
+    "name": "cub-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "065bc5902de53e5cf82d9d4bdeef5c21", 
+    "name": "cuda", 
+    "package_type": "external", 
+    "ver_suffix": "10.2.89"
+  }, 
+  {
+    "hashtag": "8832405138263b3fc9c6972c14f3abab", 
+    "name": "cuda-api-wrappers", 
+    "package_type": "external", 
+    "ver_suffix": "20180504-pfdnen"
+  }, 
+  {
+    "hashtag": "60f8b7b7bb6370d76168977ed0451df3", 
+    "name": "cuda-api-wrappers-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.1-pfdnen"
+  }, 
+  {
+    "hashtag": "849c728349e1d98e5ef18e36857087ed", 
+    "name": "cuda-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.1-bemhoe"
+  }, 
+  {
+    "hashtag": "6226b4287f4ed81b13a914b885a76c40", 
+    "name": "curl", 
+    "package_type": "external", 
+    "ver_suffix": "7.59.0-pafccj"
+  }, 
+  {
+    "hashtag": "006182c88166991f6d53a0f4e488181d", 
+    "name": "curl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "29b0a1f4855de7dc50e31459687809d8", 
+    "name": "cvs2git", 
+    "package_type": "external", 
+    "ver_suffix": "5419-pafccj"
+  }, 
+  {
+    "hashtag": "ba331884f91ae21f8b2a3201eef75e65", 
+    "name": "cvs2git-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "dc401df867c4abc18d41baf7931ded91", 
+    "name": "dablooms", 
+    "package_type": "external", 
+    "ver_suffix": "0.9.1"
+  }, 
+  {
+    "hashtag": "e8d59edfc71ac1a49d70f052c716a06a", 
+    "name": "dablooms-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "95ca49dcc61471d4730b204a4c7c6135", 
+    "name": "das_client", 
+    "package_type": "cms", 
+    "ver_suffix": "v03.01.00-pafccj"
+  }, 
+  {
+    "hashtag": "235c23a651d36f010cb008c8686f4518", 
+    "name": "das_client-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "96138d58bfd6b4f511e6b07d1f4c762a", 
+    "name": "dasgoclient", 
+    "package_type": "cms", 
+    "ver_suffix": "v02.02.03"
+  }, 
+  {
+    "hashtag": "75f54aa6dd4a525391cf7b6869001759", 
+    "name": "data-CalibCalorimetry-CaloMiscalibTools", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "8797afb325b8c9176b2e55467709aa79", 
+    "name": "data-CalibCalorimetry-EcalTrivialCondModules", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-03-00"
+  }, 
+  {
+    "hashtag": "f1f5d3d4992a6aec75ad69949fda1df0", 
+    "name": "data-CalibPPS-ESProducers", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-00"
+  }, 
+  {
+    "hashtag": "3d544ff83ec3fac0a95e817c7216d5b7", 
+    "name": "data-CalibTracker-SiPixelESProducers", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-00-00"
+  }, 
+  {
+    "hashtag": "4df63bf3869d8776bc0371070e8300f7", 
+    "name": "data-CalibTracker-SiStripDCS", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "fb31e1d8a02f69fdf6250561ede35d86", 
+    "name": "data-Calibration-Tools", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "f5c22247c2de10772edcc1590ff9ecfa", 
+    "name": "data-CondFormats-JetMETObjects", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-03"
+  }, 
+  {
+    "hashtag": "f537b7a5adf9d10e3b83b5a4e098470e", 
+    "name": "data-CondTools-SiPhase2Tracker", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "d634468435f24b92badc5cc2545f593b", 
+    "name": "data-Configuration-Generator", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-02-00"
+  }, 
+  {
+    "hashtag": "c0299c7c9f804cdf96673a504a36fd38", 
+    "name": "data-DQM-DTMonitorClient", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "a90da874566bc4a930e05fbe221e4250", 
+    "name": "data-DQM-PhysicsHWW", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "5c66487b9413c66d9a243ac228e9b201", 
+    "name": "data-DQM-SiStripMonitorClient", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "8b772a63f3166fca234a35b8575ffa4b", 
+    "name": "data-DataFormats-PatCandidates", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-01"
+  }, 
+  {
+    "hashtag": "8b63dac9220ed7806978ad5e49b7a438", 
+    "name": "data-DetectorDescription-Schema", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-02-01"
+  }, 
+  {
+    "hashtag": "e5a34b908dda4458604c2c684e7a2d75", 
+    "name": "data-EgammaAnalysis-ElectronTools", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-04"
+  }, 
+  {
+    "hashtag": "078fe1c2a62eff9a4ef12aa19308bdce", 
+    "name": "data-EventFilter-L1TRawToDigi", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "a131e17f042f09a250073ae561bea2de", 
+    "name": "data-FWCore-Modules", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "2055097ed9b4fdf99a3cda090da6a99e", 
+    "name": "data-FastSimulation-MaterialEffects", 
+    "package_type": "cms", 
+    "ver_suffix": "V05-00-00"
+  }, 
+  {
+    "hashtag": "e1089736743941f5870a6868b361df4d", 
+    "name": "data-FastSimulation-TrackingRecHitProducer", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-03"
+  }, 
+  {
+    "hashtag": "be0b1f90845ebbb8e2f7f30d1759fa0c", 
+    "name": "data-Fireworks-Geometry", 
+    "package_type": "cms", 
+    "ver_suffix": "V07-05-04"
+  }, 
+  {
+    "hashtag": "cb608d5339291d3f3d86d8f3628747d8", 
+    "name": "data-GeneratorInterface-EvtGenInterface", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-00-11"
+  }, 
+  {
+    "hashtag": "e220ede8b60b6bd33f451bcbdca0df9d", 
+    "name": "data-GeneratorInterface-ReggeGribovPartonMCInterface", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-00-02"
+  }, 
+  {
+    "hashtag": "9d7d8743a80be5dd7dd6fcce591cc06e", 
+    "name": "data-HLTrigger-JetMET", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "d4f3f79a2863c098564b60940c23bfea", 
+    "name": "data-IOPool-Input", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "4964f72964e78f0596ba04bc52ef380c", 
+    "name": "data-L1Trigger-L1TCalorimeter", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-22"
+  }, 
+  {
+    "hashtag": "7304214955d792e634a3a3971559a350", 
+    "name": "data-L1Trigger-L1TGlobal", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-00-07"
+  }, 
+  {
+    "hashtag": "e2e8a78c2ac8b290d4e2f9e95286e47f", 
+    "name": "data-L1Trigger-L1THGCal", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-15"
+  }, 
+  {
+    "hashtag": "c8d5ff34bc28f46f77417356a6b4f24d", 
+    "name": "data-L1Trigger-L1TMuon", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-04"
+  }, 
+  {
+    "hashtag": "6c8fc4f05e790ad496e7a9735b8ac1db", 
+    "name": "data-L1Trigger-RPCTrigger", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-15-00"
+  }, 
+  {
+    "hashtag": "2af9391cfa5e411ed2d18d3461d4ffc4", 
+    "name": "data-MagneticField-Engine", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "73eb877a8df71171ed77938097040d0c", 
+    "name": "data-MagneticField-Interpolation", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-00"
+  }, 
+  {
+    "hashtag": "0dbd85d44b4ee1a30534253a87f21aa6", 
+    "name": "data-PhysicsTools-NanoAOD", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-05"
+  }, 
+  {
+    "hashtag": "98a3cdbae4f2b9f8d2b9544d6f9bb921", 
+    "name": "data-PhysicsTools-PatUtils", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00-nmpfii"
+  }, 
+  {
+    "hashtag": "2d44813ece4862c76c9eb67c8b2a2f74", 
+    "name": "data-RecoBTag-CTagging", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-03"
+  }, 
+  {
+    "hashtag": "0e3f12955f971884e7714879eb46b89a", 
+    "name": "data-RecoBTag-Combined", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-03-00"
+  }, 
+  {
+    "hashtag": "abd9189c9bcf54a494d1f9af458e9b61", 
+    "name": "data-RecoBTag-SecondaryVertex", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-00-04"
+  }, 
+  {
+    "hashtag": "3c203ad6b7b7f4ce6bc359f4b702dd67", 
+    "name": "data-RecoBTag-SoftLepton", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-01"
+  }, 
+  {
+    "hashtag": "6478eca5475df9d4aae1bbef1f62a055", 
+    "name": "data-RecoCTPPS-TotemRPLocal", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-02-00"
+  }, 
+  {
+    "hashtag": "1f78d875832fdd2288d06bf2ec10a1a9", 
+    "name": "data-RecoEgamma-ElectronIdentification", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-03"
+  }, 
+  {
+    "hashtag": "8e6a49372f8fd8a930da531708565d87", 
+    "name": "data-RecoEgamma-PhotonIdentification", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-06"
+  }, 
+  {
+    "hashtag": "9392fc1668986606b348ab7f26436325", 
+    "name": "data-RecoHGCal-TICL", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "7c55699bca31c8e83a446ca1704b18a7", 
+    "name": "data-RecoHI-HiJetAlgos", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-01"
+  }, 
+  {
+    "hashtag": "36673b1a2b71df26b45e73b04f9855a1", 
+    "name": "data-RecoJets-JetProducers", 
+    "package_type": "cms", 
+    "ver_suffix": "V05-11-00"
+  }, 
+  {
+    "hashtag": "d0afbfae8532da2b8e1c1d43df8b331f", 
+    "name": "data-RecoLocalCalo-EcalDeadChannelRecoveryAlgos", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-00"
+  }, 
+  {
+    "hashtag": "662ce482ce492732c04d82d29db45136", 
+    "name": "data-RecoMET-METPUSubtraction", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-03"
+  }, 
+  {
+    "hashtag": "df71e413884fab03dc6de5d9b525dca3", 
+    "name": "data-RecoMTD-TimingIDTools", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00"
+  }, 
+  {
+    "hashtag": "fe704425cb659c4585eaccb5f4d21950", 
+    "name": "data-RecoMuon-MuonIdentification", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-12-05"
+  }, 
+  {
+    "hashtag": "03abd20d5d1a9b73835644e8d14a2da3", 
+    "name": "data-RecoParticleFlow-PFBlockProducer", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-04-02"
+  }, 
+  {
+    "hashtag": "77bf0277d7a5a0512465d2519666b4af", 
+    "name": "data-RecoParticleFlow-PFProducer", 
+    "package_type": "cms", 
+    "ver_suffix": "V16-00-00"
+  }, 
+  {
+    "hashtag": "9aae3d657020870c8c0db5f1e0ad6716", 
+    "name": "data-RecoParticleFlow-PFTracking", 
+    "package_type": "cms", 
+    "ver_suffix": "V13-01-00"
+  }, 
+  {
+    "hashtag": "84b8de4e4f39715f003d083f87773802", 
+    "name": "data-RecoTauTag-TrainingFiles", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-02-00"
+  }, 
+  {
+    "hashtag": "b59b87ce3dcf7adde10f8c29fcc75c7e", 
+    "name": "data-RecoTracker-FinalTrackSelectors", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-07"
+  }, 
+  {
+    "hashtag": "cfe6949abd5981ec8b1d4430498bacf2", 
+    "name": "data-SLHCUpgradeSimulations-Geometry", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-10"
+  }, 
+  {
+    "hashtag": "327e8ae7cba67a43bb1bfde76da9bf2d", 
+    "name": "data-SimG4CMS-Calo", 
+    "package_type": "cms", 
+    "ver_suffix": "V03-01-00"
+  }, 
+  {
+    "hashtag": "e26a2d2d84da384619026a9a65312676", 
+    "name": "data-SimG4CMS-Forward", 
+    "package_type": "cms", 
+    "ver_suffix": "V02-03-18"
+  }, 
+  {
+    "hashtag": "8fa401083f5dae9faca8f0b647e2d7f6", 
+    "name": "data-SimG4CMS-HGCalTestBeam", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-00"
+  }, 
+  {
+    "hashtag": "b20c22512eb0206ac0bd99a99a2589db", 
+    "name": "data-SimPPS-PPSPixelDigiProducer", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-00-02"
+  }, 
+  {
+    "hashtag": "c2d88a0738770148d9bf7c957e1ad5d8", 
+    "name": "data-SimTracker-SiStripDigitizer", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-01-00"
+  }, 
+  {
+    "hashtag": "f6c95192639c6acdfffce653e9a77938", 
+    "name": "data-SimTransport-HectorProducer", 
+    "package_type": "cms", 
+    "ver_suffix": "V01-00-01"
+  }, 
+  {
+    "hashtag": "0279c03870a11a9fc3eccae80b1c60ad", 
+    "name": "data-SimTransport-PPSProtonTransport", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00-nmpfii"
+  }, 
+  {
+    "hashtag": "ba5334461fceeca2283f4430bb296c4d", 
+    "name": "data-SimTransport-TotemRPProtonTransportParametrization", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-01-00-nmpfii"
+  }, 
+  {
+    "hashtag": "bcfe191179d4d874edbe78e9a07b8dd0", 
+    "name": "data-Validation-Geometry", 
+    "package_type": "cms", 
+    "ver_suffix": "V00-07-00"
+  }, 
+  {
+    "hashtag": "22233fe57b96ac9c7b93214f4a772928", 
+    "name": "davix", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.3-nmpfii"
+  }, 
+  {
+    "hashtag": "cedee25c62900f80acfc42e02d6a736d", 
+    "name": "davix-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "0587f6a668a5b26c11196b3ef7a2c418", 
+    "name": "db6", 
+    "package_type": "external", 
+    "ver_suffix": "6.2.32-pafccj"
+  }, 
+  {
+    "hashtag": "23f642d417700726adf7dd3c153c347a", 
+    "name": "db6-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "af47d43e6e4f49fd7fbb48784fb88d31", 
+    "name": "dcap", 
+    "package_type": "external", 
+    "ver_suffix": "2.47.12"
+  }, 
+  {
+    "hashtag": "479c42b8478f0862f103d5357b7ffdf7", 
+    "name": "dcap-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "0d2a4b3c6594c30231b7e6b1a273c29c", 
+    "name": "dd4hep", 
+    "package_type": "external", 
+    "ver_suffix": "v01-10x-hpgckg3"
+  }, 
+  {
+    "hashtag": "5f3be46bfebb6e63f862514e59b9f84b", 
+    "name": "dd4hep-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-hpgckg3"
+  }, 
+  {
+    "hashtag": "5753cf97fceaa1e6ed073d41fd2a132c", 
+    "name": "dire", 
+    "package_type": "external", 
+    "ver_suffix": "2.004"
+  }, 
+  {
+    "hashtag": "1fdaf3d0f41a9bd768138da91a7275a8", 
+    "name": "dire-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii6"
+  }, 
+  {
+    "hashtag": "0277f81deb4fb64c8329cff4fdcd61a8", 
+    "name": "distcc", 
+    "package_type": "external", 
+    "ver_suffix": "3.2rc1-pafccj"
+  }, 
+  {
+    "hashtag": "e686501eeee3c45140f5b167f061ba88", 
+    "name": "distcc-gcc-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "2.0-pafccj"
+  }, 
+  {
+    "hashtag": "510f05f11c4b571909e2795c7222eccc", 
+    "name": "dmtcp", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.0-dev-pafccj"
+  }, 
+  {
+    "hashtag": "13dd08c1ebba10d7b8bf309af306f4bd", 
+    "name": "dmtcp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "ce72b01e974248d652433e6aacdb29c5", 
+    "name": "doxygen", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.11-bemhoe"
+  }, 
+  {
+    "hashtag": "af172ec892b76f1d38d3a1fbfb53db35", 
+    "name": "doxygen-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "7c4ea66a24557d58dd10c66ed7948fb0", 
+    "name": "dpm", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.0.1-pafccj"
+  }, 
+  {
+    "hashtag": "1dacbf69d33e0c0015ae899e101f3a83", 
+    "name": "dpm-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "494e06e781afb470b501a47e959e216c", 
+    "name": "eigen", 
+    "package_type": "external", 
+    "ver_suffix": "d812f411c3f9"
+  }, 
+  {
+    "hashtag": "01f5942eeede158d5e5da17ee1638459", 
+    "name": "eigen-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "cf487b3e3341d53f34e107b891447226", 
+    "name": "evtgen", 
+    "package_type": "external", 
+    "ver_suffix": "1.6.0-nmpfii6"
+  }, 
+  {
+    "hashtag": "ae538ba2e3c6c3cc64f767bd5a447ec5", 
+    "name": "evtgen-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii6"
+  }, 
+  {
+    "hashtag": "65ee9018477350ce4ffd620db8fd4074", 
+    "name": "expat", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-pafccj"
+  }, 
+  {
+    "hashtag": "4345697e1e8c58be19c4b8a3c8bdf4a2", 
+    "name": "expat-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "e66920877048e8c567da49ed59c73a67", 
+    "name": "fakesystem", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "07f10b8ae8c2925ac3fbdfed05fecfb3", 
+    "name": "fasthadd", 
+    "package_type": "external", 
+    "ver_suffix": "2.3-bcolbf3"
+  }, 
+  {
+    "hashtag": "e71736208fa0d518445ac22ef811553b", 
+    "name": "fastjet", 
+    "package_type": "external", 
+    "ver_suffix": "3.3.0-pafccj"
+  }, 
+  {
+    "hashtag": "d39a07e57d14ac7caf48b3047541b64c", 
+    "name": "fastjet-contrib", 
+    "package_type": "external", 
+    "ver_suffix": "1.033-pafccj"
+  }, 
+  {
+    "hashtag": "d5a35de89fab672058140cc13ea2626b", 
+    "name": "fastjet-contrib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "6b24ccae3da32e6a5399eb10764a8987", 
+    "name": "fastjet-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "e9d0b40befb63ad3753688c171f312b0", 
+    "name": "fftjet", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.0-bcolbf"
+  }, 
+  {
+    "hashtag": "d62e457c2a772dfe07ae9799b42ead2f", 
+    "name": "fftjet-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "70cdd42f505b2be45ea354a1d177e6d3", 
+    "name": "fftw3", 
+    "package_type": "external", 
+    "ver_suffix": "3.3.8"
+  }, 
+  {
+    "hashtag": "d771efa1519cea8f2b1f8e4a33115683", 
+    "name": "fftw3-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "0b9b11f0461989e30bde5f194f3ae9e0", 
+    "name": "form", 
+    "package_type": "external", 
+    "ver_suffix": "4.1.033e-cms"
+  }, 
+  {
+    "hashtag": "0e2f586a26728afeae7882c9bc70dc8d", 
+    "name": "freetype", 
+    "package_type": "external", 
+    "ver_suffix": "2.10.0-pfdnen"
+  }, 
+  {
+    "hashtag": "efe8604a311617702b3659a593c75f4f", 
+    "name": "freetype-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "c84420712671cbd1a3eee29d5716b46e", 
+    "name": "frontier_client", 
+    "package_type": "external", 
+    "ver_suffix": "2.9.0"
+  }, 
+  {
+    "hashtag": "7b6a1b7345909b6ec312bdcba9c9ec77", 
+    "name": "frontier_client-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "8a3c27468b6155e7066268fb539d058a", 
+    "name": "gbl", 
+    "package_type": "external", 
+    "ver_suffix": "V02-01-03-bcolbf"
+  }, 
+  {
+    "hashtag": "9145bdb5e6efc134c3ed1b63cc9ca369", 
+    "name": "gbl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "bec9481b39dd748704b2807bf1182734", 
+    "name": "gcc", 
+    "package_type": "external", 
+    "ver_suffix": "8.2.0-pafccj"
+  }, 
+  {
+    "hashtag": "a4da1d55530ccc29b08cb966e0262463", 
+    "name": "gcc-checker-plugin", 
+    "package_type": "external", 
+    "ver_suffix": "1.3-nmpfii"
+  }, 
+  {
+    "hashtag": "7fa66e6a3ae11b1db36f3e8ec0463ea4", 
+    "name": "gcc-checker-plugin-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "5706ff8a60de8043e4e4d5e5e2bead8b", 
+    "name": "gcc-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "13.0-pafccj"
+  }, 
+  {
+    "hashtag": "8c8ed6a26348c5b046e4bced34f445a8", 
+    "name": "gdb", 
+    "package_type": "external", 
+    "ver_suffix": "8.1-nmpfii"
+  }, 
+  {
+    "hashtag": "6031157e78ff4a214a4b9e207febf4d3", 
+    "name": "gdb-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "2d72bec5f6d438cea65940753d151dbd", 
+    "name": "gdbm", 
+    "package_type": "external", 
+    "ver_suffix": "1.10-pafccj"
+  }, 
+  {
+    "hashtag": "18b0f103856a62f656956ceeaafd2856", 
+    "name": "gdbm-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "2e97a2bf41823f9154b9d235b4285512", 
+    "name": "geant4", 
+    "package_type": "external", 
+    "ver_suffix": "10.4.3-pfdnen"
+  }, 
+  {
+    "hashtag": "b8b5cd283ee47135e1158ffb1e098ea7", 
+    "name": "geant4-G4ABLA", 
+    "package_type": "external", 
+    "ver_suffix": "3.0"
+  }, 
+  {
+    "hashtag": "9110c0640ea9645e5bfb943c6463b08a", 
+    "name": "geant4-G4EMLOW", 
+    "package_type": "external", 
+    "ver_suffix": "7.3"
+  }, 
+  {
+    "hashtag": "a359c93fbaf1101460cb56907bec37d5", 
+    "name": "geant4-G4ENSDFSTATE", 
+    "package_type": "external", 
+    "ver_suffix": "2.2"
+  }, 
+  {
+    "hashtag": "6e008e32d7793c701ed6c473a8c17934", 
+    "name": "geant4-G4NDL", 
+    "package_type": "external", 
+    "ver_suffix": "4.5"
+  }, 
+  {
+    "hashtag": "4b666fcdd8ab107ca906ed6450e51932", 
+    "name": "geant4-G4NEUTRONXS", 
+    "package_type": "external", 
+    "ver_suffix": "1.4"
+  }, 
+  {
+    "hashtag": "f586ce0a604c964e279af909eccfb8ca", 
+    "name": "geant4-G4PhotonEvaporation", 
+    "package_type": "external", 
+    "ver_suffix": "5.2"
+  }, 
+  {
+    "hashtag": "eae450f99e48583adb61838d8019bef6", 
+    "name": "geant4-G4RadioactiveDecay", 
+    "package_type": "external", 
+    "ver_suffix": "5.2"
+  }, 
+  {
+    "hashtag": "e390916d5775865bd7c8d9564ceb8457", 
+    "name": "geant4-G4SAIDDATA", 
+    "package_type": "external", 
+    "ver_suffix": "1.1"
+  }, 
+  {
+    "hashtag": "8d36de00ce7620b7c1dd6d78619a5469", 
+    "name": "geant4-parfullcms", 
+    "package_type": "external", 
+    "ver_suffix": "2014.01.27-pfdnen"
+  }, 
+  {
+    "hashtag": "65c9ef5347d9d67cb9e9822cbd5ca1d4", 
+    "name": "geant4-parfullcms-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "7c88b9ed703689c690361b289bf5d0b6", 
+    "name": "geant4-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "808ebbcc1794a4cb081f2fe64eb24ad0", 
+    "name": "geant4data", 
+    "package_type": "external", 
+    "ver_suffix": "2.0"
+  }, 
+  {
+    "hashtag": "69a5c448a7fc251a709399cbf22bb0e7", 
+    "name": "geant4data-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "2b480b9f9a45841216f52eb743807d20", 
+    "name": "geneva", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-RC3-bemhoe"
+  }, 
+  {
+    "hashtag": "3a29a2a0efb6657fff3e995910848c51", 
+    "name": "geneva-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "ab9ccfff530fddfda3afde67302eb7af", 
+    "name": "giflib", 
+    "package_type": "external", 
+    "ver_suffix": "5.2.0"
+  }, 
+  {
+    "hashtag": "7b93fad6f08e606772b7521e520a62ab", 
+    "name": "giflib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "ee859f2a30a173666e9524e5f66ac27b", 
+    "name": "git", 
+    "package_type": "external", 
+    "ver_suffix": "2.19.0-pafccj"
+  }, 
+  {
+    "hashtag": "cede56ea03d0160f4e973005e9e575c8", 
+    "name": "git-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "501ff0d0db57404aa94e576db5819c8a", 
+    "name": "glibc", 
+    "package_type": "external", 
+    "ver_suffix": "2.17-78.el7_2.12-1.166.el6_7.3"
+  }, 
+  {
+    "hashtag": "3cedee5699848dcf31fb8c7d7bb4f4bb", 
+    "name": "glibc-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "a99cd8984ba98991e4acd0e2cfee367c", 
+    "name": "glimpse", 
+    "package_type": "external", 
+    "ver_suffix": "4.18.5-pafccj"
+  }, 
+  {
+    "hashtag": "5d770c2b871dbf7d54ba9124dc769e13", 
+    "name": "glimpse-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "882fd21d9b9ac19255232960d0243871", 
+    "name": "gmake", 
+    "package_type": "external", 
+    "ver_suffix": "4.2.1-pafccj"
+  }, 
+  {
+    "hashtag": "62209e0a31c3c9470c336740bbbf2e44", 
+    "name": "gmake-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "e9ab301b96a150784c8e67f5e2926f8c", 
+    "name": "gmp-static", 
+    "package_type": "external", 
+    "ver_suffix": "6.1.0-pafccj"
+  }, 
+  {
+    "hashtag": "b5dcb3561a265e6d487fd8504967db00", 
+    "name": "gmp-static-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "9a523d55d0a26ddf76bbc09c2127b1a1", 
+    "name": "gnuplot", 
+    "package_type": "external", 
+    "ver_suffix": "4.6.5-pafccj"
+  }, 
+  {
+    "hashtag": "0b355faf6b0e3ab93e76441f1cbf70cc", 
+    "name": "gnuplot-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "a8dd13991a7a225062e3b14c2028bdda", 
+    "name": "google-benchmark", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.x-nmpfii"
+  }, 
+  {
+    "hashtag": "856b712c4c4da9271ce9a5463450df01", 
+    "name": "google-benchmark-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "3400a50a5f5a48e7921a45dd4d54005e", 
+    "name": "gosam", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.4-33b41ed-cms"
+  }, 
+  {
+    "hashtag": "cbec64a7ac3c8ee63571916ec8450ef3", 
+    "name": "gosam-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-cms"
+  }, 
+  {
+    "hashtag": "de3d11b3d81f4b077a40b57127668131", 
+    "name": "gosamcontrib", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-20150803-cms"
+  }, 
+  {
+    "hashtag": "ca3bde98f433f150bc63bba105f85960", 
+    "name": "gosamcontrib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-cms"
+  }, 
+  {
+    "hashtag": "20ce720abd1b82b8a17512ff127675ef", 
+    "name": "gperftools", 
+    "package_type": "external", 
+    "ver_suffix": "2.6.1-nmpfii"
+  }, 
+  {
+    "hashtag": "fe7506b710914a7ef31fa7043da6af5c", 
+    "name": "gperftools-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "33316233396774221f5803c48f001f66", 
+    "name": "graphviz", 
+    "package_type": "external", 
+    "ver_suffix": "2.38.0-bemhoe"
+  }, 
+  {
+    "hashtag": "63c4751af3f59c0f5b538bfac5dfa17d", 
+    "name": "graphviz-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "8af04845240396c0f98cc9ebc6703251", 
+    "name": "gsl", 
+    "package_type": "external", 
+    "ver_suffix": "2.6-bemhoe"
+  }, 
+  {
+    "hashtag": "2e87074eaa379bba2c1430d9ec1a40be", 
+    "name": "gsl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bemhoe"
+  }, 
+  {
+    "hashtag": "f629cb00af13e032a727b16e2b6c2e96", 
+    "name": "hdf5", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.17-pafccj"
+  }, 
+  {
+    "hashtag": "006dc172caf0b1fc7902ed59835378a3", 
+    "name": "hdf5-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "372869a6e2b0bc51f4155879cd55efc6", 
+    "name": "hector", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.4_patch1-bcolbf3"
+  }, 
+  {
+    "hashtag": "192ca6391a60970e1d799400fa5d3016", 
+    "name": "hector-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "d1862160f6cdc9833e953d511dc49daa", 
+    "name": "hepmc", 
+    "package_type": "external", 
+    "ver_suffix": "2.06.07-nmpfii"
+  }, 
+  {
+    "hashtag": "47d30c9b203d2e8613e64654ca58592d", 
+    "name": "hepmc-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "df0bb9be259788128ddc0eb1613ce197", 
+    "name": "heppdt", 
+    "package_type": "external", 
+    "ver_suffix": "3.03.00-nmpfii2"
+  }, 
+  {
+    "hashtag": "1895020054e1682b8f1f2484572121c8", 
+    "name": "heppdt-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "e54ac2a6b49f71e7ea64241631d42e22", 
+    "name": "herwig", 
+    "package_type": "external", 
+    "ver_suffix": "6.521-nmpfii3"
+  }, 
+  {
+    "hashtag": "5f42ef295465c623ba5ee6fea5d791c6", 
+    "name": "herwig-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "1edaa047da8f6de4c5b26dbdd362dd38", 
+    "name": "herwigpp", 
+    "package_type": "external", 
+    "ver_suffix": "7.1.4-cms"
+  }, 
+  {
+    "hashtag": "ae08816b8d3c2bd1c25ba698a3ed4e43", 
+    "name": "herwigpp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-cms"
+  }, 
+  {
+    "hashtag": "6ad3290bad5f7d5224abfe1bd38a63e3", 
+    "name": "hls", 
+    "package_type": "external", 
+    "ver_suffix": "2019.08"
+  }, 
+  {
+    "hashtag": "c1483f163a58372edc5f22f9756fd513", 
+    "name": "hls-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "c0e6d832c403481648ffc3fa32246f11", 
+    "name": "icc-gcc-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "3.0-pafccj"
+  }, 
+  {
+    "hashtag": "1eb6709265065e33dfb5e01411760084", 
+    "name": "icc-provides", 
+    "package_type": "external", 
+    "ver_suffix": "2018.0.128"
+  }, 
+  {
+    "hashtag": "b0044df08c4e3f4dba4e5ca96f6399ba", 
+    "name": "icc-scram", 
+    "package_type": "cms", 
+    "ver_suffix": "2018.0.128"
+  }, 
+  {
+    "hashtag": "701f5b4ebb1a8f1ec81cb45705fecf2e", 
+    "name": "igprof", 
+    "package_type": "external", 
+    "ver_suffix": "5.9.16-nmpfii"
+  }, 
+  {
+    "hashtag": "2cc91886ae28fdd012dc0460df6593a4", 
+    "name": "igprof-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "0bd037d07d6c682530a04489be093753", 
+    "name": "intel-vtune", 
+    "package_type": "external", 
+    "ver_suffix": "2018.0.2.525261"
+  }, 
+  {
+    "hashtag": "85387a6f65b2fb3eee2134a449b9a414", 
+    "name": "ittnotify", 
+    "package_type": "external", 
+    "ver_suffix": "16.06.18-nmpfii"
+  }, 
+  {
+    "hashtag": "8fc2c571e50c61453aad28821c0b5115", 
+    "name": "ittnotify-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "f5880cdd02d73bee9aea8e23521b5524", 
+    "name": "jemalloc", 
+    "package_type": "external", 
+    "ver_suffix": "5.2.0"
+  }, 
+  {
+    "hashtag": "77dfff13821b8f0cb0857798e9cb3292", 
+    "name": "jemalloc-debug", 
+    "package_type": "external", 
+    "ver_suffix": "4.5.0-pafccj"
+  }, 
+  {
+    "hashtag": "1dc0bcfffe5133a21b2d178d500b8cab", 
+    "name": "jemalloc-debug-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "fc7d9c955c311b3023b1f18180191a2b", 
+    "name": "jemalloc-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-nmpfii"
+  }, 
+  {
+    "hashtag": "35d6262e270fe608d354eaf74108cc3a", 
+    "name": "jimmy", 
+    "package_type": "external", 
+    "ver_suffix": "4.2-nmpfii3"
+  }, 
+  {
+    "hashtag": "e7bf4d1541a4e17e4d3116d0b2349945", 
+    "name": "jimmy-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "b70054050e3442e9b540f58f3dd034a7", 
+    "name": "ktjet", 
+    "package_type": "external", 
+    "ver_suffix": "1.06-nmpfii"
+  }, 
+  {
+    "hashtag": "e9ac4fa173a4974199c8e7f7fcc9ccd8", 
+    "name": "ktjet-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "c8f6b3ea642e3cb9a851be66d2e4d340", 
+    "name": "lcov", 
+    "package_type": "external", 
+    "ver_suffix": "1.9"
+  }, 
+  {
+    "hashtag": "b75b9c47d82b5762c8d9da2abb2bf26a", 
+    "name": "lcov-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "4a7cb010318738f6fd6b99f80b4c6876", 
+    "name": "lhapdf", 
+    "package_type": "external", 
+    "ver_suffix": "6.2.1-nmpfii3"
+  }, 
+  {
+    "hashtag": "a0648a6359ed8accd1e32ba114bed305", 
+    "name": "lhapdf-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "411bfd3aec4db6e541fe1f0c7a8c1134", 
+    "name": "libffi", 
+    "package_type": "external", 
+    "ver_suffix": "3.2.1-pafccj"
+  }, 
+  {
+    "hashtag": "b38bf06bab646b90aa8343fd246bc998", 
+    "name": "libffi-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "995c26f163e1078361af689e903980b5", 
+    "name": "libhepml", 
+    "package_type": "external", 
+    "ver_suffix": "0.2.1-pafccj"
+  }, 
+  {
+    "hashtag": "189ac6640fa0833f521296a9d6c85579", 
+    "name": "libhepml-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "209e2cd153ed56460bd3c14ef5ecbee5", 
+    "name": "libjpeg-turbo", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.2-bemhoe"
+  }, 
+  {
+    "hashtag": "2f0bbad7cb27277435b874a206dedfb8", 
+    "name": "libjpeg-turbo-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bemhoe"
+  }, 
+  {
+    "hashtag": "f6bf6a2657c1ecc8ba905acf73e60019", 
+    "name": "libpng", 
+    "package_type": "external", 
+    "ver_suffix": "1.6.37"
+  }, 
+  {
+    "hashtag": "3355f631e7f39f87034eff1b5a7912c3", 
+    "name": "libpng-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "7189f6263ea73581455f509a55816d83", 
+    "name": "libtiff", 
+    "package_type": "external", 
+    "ver_suffix": "4.0.10-bemhoe"
+  }, 
+  {
+    "hashtag": "0aa8be011e6aa938322bfc83269dee87", 
+    "name": "libtiff-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "009384018bf3a58deeb636350098a555", 
+    "name": "libungif", 
+    "package_type": "external", 
+    "ver_suffix": "4.1.4-pafccj"
+  }, 
+  {
+    "hashtag": "91e14a5f65cd74be36dfc648d16ae5b3", 
+    "name": "libungif-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "6234bbb67d0391c3b4c06564a5192034", 
+    "name": "libunwind", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.1"
+  }, 
+  {
+    "hashtag": "bab4534383072310fcaaca8072bfe489", 
+    "name": "libunwind-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "f0568093ca5a1bc429d5ce7c1846ec72", 
+    "name": "libuuid", 
+    "package_type": "external", 
+    "ver_suffix": "2.34"
+  }, 
+  {
+    "hashtag": "a8d5f999fe4d7275cf3f591aeef0e89e", 
+    "name": "libuuid-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "62de955cf7bc2d4b371839e63d64a874", 
+    "name": "libxml2", 
+    "package_type": "external", 
+    "ver_suffix": "2.9.9"
+  }, 
+  {
+    "hashtag": "9b72243f9eb18b8188edf3c2b29245ad", 
+    "name": "libxml2-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "713a8e582912bc0b685ca59dc9132b31", 
+    "name": "libxslt", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.28-nmpfii"
+  }, 
+  {
+    "hashtag": "a395e165310d8c1c27038e29742e9965", 
+    "name": "libxslt-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "c4ba7a95f13ef4886b8a1181924a04d6", 
+    "name": "llvm", 
+    "package_type": "external", 
+    "ver_suffix": "9.0.1"
+  }, 
+  {
+    "hashtag": "2cf3f40d54553350aa6e8133af11cffb", 
+    "name": "llvm-gcc-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "14.0"
+  }, 
+  {
+    "hashtag": "fbf6309e86edbe48ac6d4a838c77b6a8", 
+    "name": "lwtnn", 
+    "package_type": "external", 
+    "ver_suffix": "2.10-hpgckg"
+  }, 
+  {
+    "hashtag": "3fcc4800177b8c6679262f055adbfd8c", 
+    "name": "lwtnn-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-hpgckg"
+  }, 
+  {
+    "hashtag": "f663856886eb68c746fc80aeab00e311", 
+    "name": "lz4", 
+    "package_type": "external", 
+    "ver_suffix": "1.9.1"
+  }, 
+  {
+    "hashtag": "003124eefbc5bf81defba74d9ddb712d", 
+    "name": "madgraph5amcatnlo", 
+    "package_type": "external", 
+    "ver_suffix": "2.6.0-cms"
+  }, 
+  {
+    "hashtag": "6f25ba970c44ebc5a1f648abdf768983", 
+    "name": "madgraph5amcatnlo-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-cms"
+  }, 
+  {
+    "hashtag": "856dddccab597953e1ba8e36606b5aec", 
+    "name": "mcdb", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.3-pafccj"
+  }, 
+  {
+    "hashtag": "820937c72ead909d95e680539c406754", 
+    "name": "mcdb-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "34cdd17688bd5183704c48380f83d45f", 
+    "name": "mctester", 
+    "package_type": "external", 
+    "ver_suffix": "1.25.0a-bcolbf3"
+  }, 
+  {
+    "hashtag": "06e47d6b7d2aaa197e17a4decc8e7f68", 
+    "name": "mctester-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "a7b9f7fd4c5ea00fd60d3f7c2e302117", 
+    "name": "md5", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.0-pafccj"
+  }, 
+  {
+    "hashtag": "5747bb55c421108a7c9693db2b4cd722", 
+    "name": "md5-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "4448a8b389dd2b67b1e6c40d6a9b7383", 
+    "name": "meschach", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.pCMS1-pafccj"
+  }, 
+  {
+    "hashtag": "8fb128a10a4eda308aa84d74d511e1b1", 
+    "name": "meschach-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "5d6b579edc920a13e83a0c976e228131", 
+    "name": "millepede", 
+    "package_type": "external", 
+    "ver_suffix": "V04-06-00"
+  }, 
+  {
+    "hashtag": "c0028af0450ecb30c8ab38becbae9066", 
+    "name": "millepede-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "7f3fe3f7bf958c723ae3d9e193d64451", 
+    "name": "mkfit", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "bed6655ad995131850cae1c3172ee20a", 
+    "name": "mkfit-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "1fadfab1f02808d042f827d544384d39", 
+    "name": "mpfr-static", 
+    "package_type": "external", 
+    "ver_suffix": "4.0.1-pafccj"
+  }, 
+  {
+    "hashtag": "b3cbd33f0a46999ed01a7cf7e0c1e09a", 
+    "name": "mpfr-static-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "855e862b9d06116d92d4734d00a0dbca", 
+    "name": "mxnet-predict", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.0-bcolbf"
+  }, 
+  {
+    "hashtag": "073b7c96a89a24213acd8225a647b5bb", 
+    "name": "mxnet-predict-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.0-bcolbf"
+  }, 
+  {
+    "hashtag": "ea289ff448608dabc768861f7d380cfb", 
+    "name": "onnxruntime", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.0-bemhoe"
+  }, 
+  {
+    "hashtag": "8db66be0319107191bdcd673d36c0854", 
+    "name": "onnxruntime-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "98896e4ce306eea59bc9e47341e8a051", 
+    "name": "opencl", 
+    "package_type": "external", 
+    "ver_suffix": "1.1"
+  }, 
+  {
+    "hashtag": "645545df61ba7086d546e3d4b2d9c3e8", 
+    "name": "opencl-cpp", 
+    "package_type": "external", 
+    "ver_suffix": "1.1"
+  }, 
+  {
+    "hashtag": "54f69ca5d7f4d7b708db3582e87a62b0", 
+    "name": "opencl-cpp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "ccb4306b061f8e94d594285f22d95c36", 
+    "name": "opencl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0"
+  }, 
+  {
+    "hashtag": "329c16880dc07c5833b43b2abf0b0bfb", 
+    "name": "openldap", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.45-pafccj"
+  }, 
+  {
+    "hashtag": "9a439ab0d5456adee27b2e2e4ad64f1a", 
+    "name": "openldap-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "988c91217c83836a75b3f1d0b418b64a", 
+    "name": "openloops", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "d74fb3d1ffdcfc378c8607baa7b7abb8", 
+    "name": "openloops-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "c57bdc64819d987f6a07f3a8ad9c3b0f", 
+    "name": "openmpi", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.5-pafccj"
+  }, 
+  {
+    "hashtag": "678ffc5326c238eb3c31afc320e26fb6", 
+    "name": "openmpi-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "be333f76b555516153af5e12b1131d4d", 
+    "name": "openssl", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.2d-pafccj"
+  }, 
+  {
+    "hashtag": "663293125af1899d7507ce9daf515b48", 
+    "name": "openssl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "092b2255d526dd6bd93c0d85d1d7327e", 
+    "name": "oracle", 
+    "package_type": "external", 
+    "ver_suffix": "12.1.0.2.0-pafccj2"
+  }, 
+  {
+    "hashtag": "df9e6c1d86d144b0e30559529f62d63f", 
+    "name": "oracle-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-pafccj"
+  }, 
+  {
+    "hashtag": "6e4818c93c3ff5283d89f28d9bcc3faf", 
+    "name": "pacparser", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.5-pafccj"
+  }, 
+  {
+    "hashtag": "c953e4b8c55311716c70f277e8fa0000", 
+    "name": "pacparser-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "ad68e658f8309e289994aa18a2529a06", 
+    "name": "pcre", 
+    "package_type": "external", 
+    "ver_suffix": "8.37-pafccj"
+  }, 
+  {
+    "hashtag": "883a1df43377aa1fb460418940b1498d", 
+    "name": "pcre-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "69236635a1767e73c9be3b2a3ff30d21", 
+    "name": "photos", 
+    "package_type": "external", 
+    "ver_suffix": "215.5-pafccj"
+  }, 
+  {
+    "hashtag": "a5f84dae9836b227e991efeed6272506", 
+    "name": "photos-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "d684ab3cfc8532f08526c5d46dcf43a8", 
+    "name": "photospp", 
+    "package_type": "external", 
+    "ver_suffix": "3.61-nmpfii"
+  }, 
+  {
+    "hashtag": "50d311c40a0f7cfaf116e09128d8f599", 
+    "name": "photospp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "4.0-nmpfii"
+  }, 
+  {
+    "hashtag": "8700361c7671dccd927eba424bf65fea", 
+    "name": "professor", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "9d57926846baf2af61cad828d5310655", 
+    "name": "professor-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "8d5fa5f95d66a53820ca1197a2060bd8", 
+    "name": "professor2", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.2-bcolbf3"
+  }, 
+  {
+    "hashtag": "683f6ef087a47a9f05f8244b08d854be", 
+    "name": "professor2-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "ede5dfe0301ae1a3adb75f44f91a32b0", 
+    "name": "protobuf", 
+    "package_type": "external", 
+    "ver_suffix": "3.8.0"
+  }, 
+  {
+    "hashtag": "1d90abd5012823b5a0bf26a81206a9e0", 
+    "name": "protobuf-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "6e0625cd77d38770522d5000f7341e01", 
+    "name": "py2-Bottleneck", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.0-bcolbf"
+  }, 
+  {
+    "hashtag": "58c77c4f7cdc761f3a5386915de18a30", 
+    "name": "py2-Click", 
+    "package_type": "external", 
+    "ver_suffix": "7.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "721744ccd8be5c01020ad79f7cdf3384", 
+    "name": "py2-GitPython", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.14-nmpfii"
+  }, 
+  {
+    "hashtag": "4e6756017ea8363404d0f67469f92088", 
+    "name": "py2-Jinja2", 
+    "package_type": "external", 
+    "ver_suffix": "2.10.3"
+  }, 
+  {
+    "hashtag": "234958009bc281994fb599720753fab6", 
+    "name": "py2-Keras", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.1"
+  }, 
+  {
+    "hashtag": "370733236847040707b8e741640e5e59", 
+    "name": "py2-Mako", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "63d51a3964d5b1316388efdc6ef54bf4", 
+    "name": "py2-Markdown", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "935661e1380019ce77cf7ab77f1b192b", 
+    "name": "py2-MarkupSafe", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "512a03846b3b7804908cad7a7ec1df51", 
+    "name": "py2-PyYAML", 
+    "package_type": "external", 
+    "ver_suffix": "5.1.2-nmpfii"
+  }, 
+  {
+    "hashtag": "f946f46a29da1785dcbdc7299152ddbe", 
+    "name": "py2-Pygments", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "8f481fc85eb60c0d47ec662aaa4a5a2e", 
+    "name": "py2-Send2Trash", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "01650a38497359b1ee82142ade1a654a", 
+    "name": "py2-Theano", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.4-bcolbf"
+  }, 
+  {
+    "hashtag": "a8083c8008890e4ab9003cc9756d518e", 
+    "name": "py2-Werkzeug", 
+    "package_type": "external", 
+    "ver_suffix": "0.16.0-nmpfii"
+  }, 
+  {
+    "hashtag": "0d72442035100262bfabe4385b9d6247", 
+    "name": "py2-absl-py", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.1-nmpfii"
+  }, 
+  {
+    "hashtag": "d85343ef1e2a206853a353601f398651", 
+    "name": "py2-appdirs", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "a72820b7b4e2154714c5fa7bfb924266", 
+    "name": "py2-argparse", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "a2990b26bee4338637b307981882dd1b", 
+    "name": "py2-asn1crypto", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.0"
+  }, 
+  {
+    "hashtag": "bf9658d48016f0e1a1d609cda59fed3c", 
+    "name": "py2-astor", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.0-nmpfii"
+  }, 
+  {
+    "hashtag": "f1ee59370ae6a33460c88b07e25a0dd0", 
+    "name": "py2-astroid", 
+    "package_type": "external", 
+    "ver_suffix": "1.6.6-nmpfii4"
+  }, 
+  {
+    "hashtag": "83eb3cc259277ea623aa039a12f24607", 
+    "name": "py2-atomicwrites", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "588599ebc1dd73fd2817d192d7642a05", 
+    "name": "py2-attrs", 
+    "package_type": "external", 
+    "ver_suffix": "19.3.0"
+  }, 
+  {
+    "hashtag": "c3ab76f58b034412bca5631194e7b78e", 
+    "name": "py2-autopep8", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.4-nmpfii2"
+  }, 
+  {
+    "hashtag": "d386c2d8f4c5dbb25780c36333228694", 
+    "name": "py2-avro", 
+    "package_type": "external", 
+    "ver_suffix": "1.9.1-nmpfii"
+  }, 
+  {
+    "hashtag": "9d853fadfea2f6d1ff5b62f555ed5345", 
+    "name": "py2-awkward", 
+    "package_type": "external", 
+    "ver_suffix": "0.12.15-bcolbf"
+  }, 
+  {
+    "hashtag": "b75c42238f36edb95541ed3f0579ac92", 
+    "name": "py2-backcall", 
+    "package_type": "external", 
+    "ver_suffix": "0.1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "81afa4eed39bfa5aec9b5e17363a4954", 
+    "name": "py2-backports", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "aeaa858abf43b7261c231c63eb27d1e6", 
+    "name": "py2-backports-functools_lru_cache", 
+    "package_type": "external", 
+    "ver_suffix": "1.6.1"
+  }, 
+  {
+    "hashtag": "cca6f0aea2132f925b058117b0e3825e", 
+    "name": "py2-backports_abc", 
+    "package_type": "external", 
+    "ver_suffix": "0.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "c77b0eec045c09cfcff563db64b17b2f", 
+    "name": "py2-beautifulsoup4", 
+    "package_type": "external", 
+    "ver_suffix": "4.8.1"
+  }, 
+  {
+    "hashtag": "3edd00b8f44dbecc132e0b6153d177e4", 
+    "name": "py2-bleach", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.1"
+  }, 
+  {
+    "hashtag": "7d5ceb3afab5da562185c9450cb4610e", 
+    "name": "py2-bokeh", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.0-bemhoe"
+  }, 
+  {
+    "hashtag": "79c8c36e46407a9fe339d38a7259963b", 
+    "name": "py2-cachetools", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "1b76400a50db0dfc02b27d719d138de0", 
+    "name": "py2-certifi", 
+    "package_type": "external", 
+    "ver_suffix": "2019.9.11-nmpfii"
+  }, 
+  {
+    "hashtag": "4907d3149b9b231878e253428e607ac8", 
+    "name": "py2-cffi", 
+    "package_type": "external", 
+    "ver_suffix": "1.13.2"
+  }, 
+  {
+    "hashtag": "fbec32a83600e6e0e34f0f8c4c98b459", 
+    "name": "py2-chardet", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.4-nmpfii2"
+  }, 
+  {
+    "hashtag": "50a0926a1534f678edd2b045af1dfd20", 
+    "name": "py2-climate", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.6-nmpfii2"
+  }, 
+  {
+    "hashtag": "0de93122bb2222b598c3fd5dd9e4f18a", 
+    "name": "py2-cloudpickle", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.2"
+  }, 
+  {
+    "hashtag": "8ff57646bdd74371bce5617701852e42", 
+    "name": "py2-colorama", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "4e8d440c146bc23b8ae7761f7765e66b", 
+    "name": "py2-configparser", 
+    "package_type": "external", 
+    "ver_suffix": "4.0.2-nmpfii"
+  }, 
+  {
+    "hashtag": "2f4b234bf52bb74e42590e8d7a2d3f64", 
+    "name": "py2-contextlib2", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0.post1"
+  }, 
+  {
+    "hashtag": "02df915122c52c4f2e211122ce121bb8", 
+    "name": "py2-coverage", 
+    "package_type": "external", 
+    "ver_suffix": "4.5.4-nmpfii"
+  }, 
+  {
+    "hashtag": "3e6d5c5598fc67dde2adff420430c79f", 
+    "name": "py2-cryptography", 
+    "package_type": "external", 
+    "ver_suffix": "2.8-nmpfii"
+  }, 
+  {
+    "hashtag": "92ddda427a2315c3c853073b4026c559", 
+    "name": "py2-cx-Oracle", 
+    "package_type": "external", 
+    "ver_suffix": "7.2.3-nmpfii"
+  }, 
+  {
+    "hashtag": "44f6b1ed7f22c3f2939e3130b042f22e", 
+    "name": "py2-cycler", 
+    "package_type": "external", 
+    "ver_suffix": "0.10.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "91dc5e3deaf1f1feff1500db7cd5ada4", 
+    "name": "py2-cython", 
+    "package_type": "external", 
+    "ver_suffix": "0.29.14"
+  }, 
+  {
+    "hashtag": "b52f33afc4bc68d4553262463574451b", 
+    "name": "py2-decorator", 
+    "package_type": "external", 
+    "ver_suffix": "4.4.1"
+  }, 
+  {
+    "hashtag": "24d1aa44da8a648e77d0e3416ba66086", 
+    "name": "py2-defusedxml", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "19afb754108122177fe5fae8865290a5", 
+    "name": "py2-docopt", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "c60f1772f350e8f692fcbaf62e10d725", 
+    "name": "py2-downhill", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.0-bcolbf"
+  }, 
+  {
+    "hashtag": "af1e9629e2abfffcf7866315b5cbb131", 
+    "name": "py2-dxr", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "1dbb06e1f5791034c22e08e58f034c0c", 
+    "name": "py2-dxr-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "53a70485a1bd14050ca5ea579ddb2b80", 
+    "name": "py2-entrypoints", 
+    "package_type": "external", 
+    "ver_suffix": "0.3-nmpfii3"
+  }, 
+  {
+    "hashtag": "e0f53817eacbeb8cb958712b6e875e5f", 
+    "name": "py2-enum34", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.6-nmpfii2"
+  }, 
+  {
+    "hashtag": "4b4d7267759ce02ecbc10437fb6e6e36", 
+    "name": "py2-flake8", 
+    "package_type": "external", 
+    "ver_suffix": "3.7.9"
+  }, 
+  {
+    "hashtag": "174339d0b6d8ecc77747e96d95a8fb17", 
+    "name": "py2-flawfinder", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.10-nmpfii2"
+  }, 
+  {
+    "hashtag": "839d299fb17eb12586b05355840cb6d8", 
+    "name": "py2-fs", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.11-nmpfii2"
+  }, 
+  {
+    "hashtag": "f55e555d12379ab6ef8ecd148c2ec5d6", 
+    "name": "py2-funcsigs", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "9aa1593955b79a38b2d6273cf4fe7ab4", 
+    "name": "py2-functools32", 
+    "package_type": "external", 
+    "ver_suffix": "3.2.3-2-nmpfii2"
+  }, 
+  {
+    "hashtag": "6c8961dab3b488442a2707b6f9e291f1", 
+    "name": "py2-future", 
+    "package_type": "external", 
+    "ver_suffix": "0.18.2"
+  }, 
+  {
+    "hashtag": "0d493c6fed799e60ea183e3b4c11d21e", 
+    "name": "py2-futures", 
+    "package_type": "external", 
+    "ver_suffix": "3.3.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "e947f1d2378962782064b1d675793116", 
+    "name": "py2-gast", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.2-nmpfii"
+  }, 
+  {
+    "hashtag": "14445755d4ad1f8d596c123160fd0ade", 
+    "name": "py2-gitdb2", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.6-nmpfii"
+  }, 
+  {
+    "hashtag": "193b0e90fcdbc52c801e5296c05e4367", 
+    "name": "py2-google-common", 
+    "package_type": "external", 
+    "ver_suffix": "0.0.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "c601f2fdb970e52159f34b69d77713c5", 
+    "name": "py2-google-pasta", 
+    "package_type": "external", 
+    "ver_suffix": "0.1.8"
+  }, 
+  {
+    "hashtag": "31926224aa17f6f84c33cb0987db99a5", 
+    "name": "py2-googlePackages", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "d58d2743f0fc6eabeff93bf72fc6059a", 
+    "name": "py2-grpcio", 
+    "package_type": "external", 
+    "ver_suffix": "1.25.0"
+  }, 
+  {
+    "hashtag": "05c7756e4853ee25db45612839090bc3", 
+    "name": "py2-h5py", 
+    "package_type": "external", 
+    "ver_suffix": "2.10.0-bcolbf"
+  }, 
+  {
+    "hashtag": "226729b46eeed038e715e295b6ef0936", 
+    "name": "py2-h5py-cache", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "a04689099dca905b57af7b82bd9dc379", 
+    "name": "py2-hep_ml", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0-bcolbf"
+  }, 
+  {
+    "hashtag": "0cee217175279ace92beb3ad80c35619", 
+    "name": "py2-hepdata-lib", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "cb71055b2ff57b5c6bfbf23c75b05025", 
+    "name": "py2-histbook", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.5-bcolbf"
+  }, 
+  {
+    "hashtag": "99432442b562176ba639f907f189cbf8", 
+    "name": "py2-histogrammar", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.9-nmpfii2"
+  }, 
+  {
+    "hashtag": "553275ac568cecfa48c72d27e243b60f", 
+    "name": "py2-html5lib", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.1-nmpfii3"
+  }, 
+  {
+    "hashtag": "15e81911a6c840a95990fcfd761ab322", 
+    "name": "py2-hyperas", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.1-bcolbf2"
+  }, 
+  {
+    "hashtag": "fa442537d5aedbbb0437bb4ae4994ce4", 
+    "name": "py2-hyperopt", 
+    "package_type": "external", 
+    "ver_suffix": "0.2.2-bcolbf"
+  }, 
+  {
+    "hashtag": "9a388442494a3226e90bbb7c56199328", 
+    "name": "py2-idna", 
+    "package_type": "external", 
+    "ver_suffix": "2.8-nmpfii2"
+  }, 
+  {
+    "hashtag": "9a042084af001dfe92ef8e2215c1f04f", 
+    "name": "py2-importlib-metadata", 
+    "package_type": "external", 
+    "ver_suffix": "0.23-nmpfii2"
+  }, 
+  {
+    "hashtag": "9c97ffb58b1614e5c42787fb93c2c5ea", 
+    "name": "py2-ipaddress", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.23"
+  }, 
+  {
+    "hashtag": "614082359f797b850fada0f1b88ab308", 
+    "name": "py2-ipykernel", 
+    "package_type": "external", 
+    "ver_suffix": "4.10.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "17273c0c1495eb645d3683bc73741873", 
+    "name": "py2-ipython", 
+    "package_type": "external", 
+    "ver_suffix": "5.8.0-nmpfii5"
+  }, 
+  {
+    "hashtag": "bd4e94e490ea82cdd368de24bb96be5c", 
+    "name": "py2-ipython_genutils", 
+    "package_type": "external", 
+    "ver_suffix": "0.2.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "fc54564a46cdc2107669e2b7b025933b", 
+    "name": "py2-ipywidgets", 
+    "package_type": "external", 
+    "ver_suffix": "7.5.1-bcolbf"
+  }, 
+  {
+    "hashtag": "dbeb8d8e1f2302c6350f1742a5ee861b", 
+    "name": "py2-isort", 
+    "package_type": "external", 
+    "ver_suffix": "4.3.21-nmpfii2"
+  }, 
+  {
+    "hashtag": "ce36b25242029929735ddc83eb98d3c2", 
+    "name": "py2-jedi", 
+    "package_type": "external", 
+    "ver_suffix": "0.15.1-nmpfii"
+  }, 
+  {
+    "hashtag": "f1ffd01778001e7cb4bb1b716d39992f", 
+    "name": "py2-joblib", 
+    "package_type": "external", 
+    "ver_suffix": "0.14.0-nmpfii"
+  }, 
+  {
+    "hashtag": "7b540a2f74b1560189c5244b4e98e87d", 
+    "name": "py2-jsonpickle", 
+    "package_type": "external", 
+    "ver_suffix": "1.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "1b091d29546cbca0cfa708ce89f7987e", 
+    "name": "py2-jsonschema", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.1-nmpfii"
+  }, 
+  {
+    "hashtag": "7dcfbf4b25f8900830517aba179c22a9", 
+    "name": "py2-jupyter", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.0-bcolbf"
+  }, 
+  {
+    "hashtag": "32a35bc9a339ff82da76e83852f26e70", 
+    "name": "py2-jupyter_client", 
+    "package_type": "external", 
+    "ver_suffix": "5.3.4-nmpfii"
+  }, 
+  {
+    "hashtag": "c61704b411dffea8fb0daf2b0a8523a2", 
+    "name": "py2-jupyter_console", 
+    "package_type": "external", 
+    "ver_suffix": "5.2.0-nmpfii5"
+  }, 
+  {
+    "hashtag": "a5b2b7885db9bddd8f2a71b968d279d4", 
+    "name": "py2-jupyter_core", 
+    "package_type": "external", 
+    "ver_suffix": "4.6.1-nmpfii"
+  }, 
+  {
+    "hashtag": "47e44af510622e2b2fe0bd1ec0856d05", 
+    "name": "py2-keras-applications", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.8-bcolbf"
+  }, 
+  {
+    "hashtag": "2f2501321767395c6857ccb3122b140a", 
+    "name": "py2-keras-preprocessing", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "155b14cf3da7997d7389a28598d504dc", 
+    "name": "py2-kiwisolver", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "bc88ddd8f52bbe05d4d81637596593c1", 
+    "name": "py2-lazy-object-proxy", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.3"
+  }, 
+  {
+    "hashtag": "95112cb9b504c295d94093d016f0e56e", 
+    "name": "py2-lizard", 
+    "package_type": "external", 
+    "ver_suffix": "1.16.6-nmpfii"
+  }, 
+  {
+    "hashtag": "8eb482e1b36e9e00420eb1de271096fa", 
+    "name": "py2-llvmlite", 
+    "package_type": "external", 
+    "ver_suffix": "0.32.0x"
+  }, 
+  {
+    "hashtag": "e43d587c5f9393d94fbf9ff44e5e2ef1", 
+    "name": "py2-lxml", 
+    "package_type": "external", 
+    "ver_suffix": "4.4.1-nmpfii"
+  }, 
+  {
+    "hashtag": "4863dd4edb8fd3e72364040d87d6ec89", 
+    "name": "py2-lz4", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.1-nmpfii"
+  }, 
+  {
+    "hashtag": "db3c95311f2aa0d316b3902a6ace1b88", 
+    "name": "py2-matplotlib", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.4-pfdnen"
+  }, 
+  {
+    "hashtag": "e1b87a608c98694d8b779f4b13c5d2a3", 
+    "name": "py2-mccabe", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "1e3e5218daaf8c2ef5ffd4dd666a4af5", 
+    "name": "py2-mistune", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.4-nmpfii2"
+  }, 
+  {
+    "hashtag": "661bbdfeb94b1002c006b6ac5d201dbd", 
+    "name": "py2-mock", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "61780ce250414f1f6f7241b282f8f77f", 
+    "name": "py2-more-itertools", 
+    "package_type": "external", 
+    "ver_suffix": "5.0.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "5ed264ada90fed2a67eaa7ee969a19af", 
+    "name": "py2-mpld3", 
+    "package_type": "external", 
+    "ver_suffix": "0.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "e00d07e2558f3ed07d5205052d6c3356", 
+    "name": "py2-mpmath", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "239b969e2de00c9043aea6eb30b23b9b", 
+    "name": "py2-nbconvert", 
+    "package_type": "external", 
+    "ver_suffix": "5.6.1-bcolbf"
+  }, 
+  {
+    "hashtag": "5413d01fc2c7f4fc253dd5bfc63dded2", 
+    "name": "py2-nbdime", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "a7127be4046a76c6da2d1189d2b071d7", 
+    "name": "py2-nbformat", 
+    "package_type": "external", 
+    "ver_suffix": "4.4.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "19e1a835c800bf2e8257fc3616ec3fb9", 
+    "name": "py2-networkx", 
+    "package_type": "external", 
+    "ver_suffix": "2.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "3823d286cecaded72319be34701d8988", 
+    "name": "py2-neurolab", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "6ff559865b771152d93ea714488a2987", 
+    "name": "py2-nose", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.7-nmpfii2"
+  }, 
+  {
+    "hashtag": "a1c8bc18a6efa48797beed3d0ae86d89", 
+    "name": "py2-nose-parameterized", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "70a1525f0b0439b10e831f1811e3c013", 
+    "name": "py2-notebook", 
+    "package_type": "external", 
+    "ver_suffix": "5.7.8-bcolbf"
+  }, 
+  {
+    "hashtag": "31d266e573536d24310507b8f2f171eb", 
+    "name": "py2-numba", 
+    "package_type": "external", 
+    "ver_suffix": "0.46.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "dfd50d9ead906da3725c4de5e47792c3", 
+    "name": "py2-numexpr", 
+    "package_type": "external", 
+    "ver_suffix": "2.7.0-bcolbf"
+  }, 
+  {
+    "hashtag": "fcd7bf946d34b634364cc6dcb7d35672", 
+    "name": "py2-numpy", 
+    "package_type": "external", 
+    "ver_suffix": "1.16.5-bcolbf"
+  }, 
+  {
+    "hashtag": "8a1d64ccb8cc57eed7a51ef25eb72c6d", 
+    "name": "py2-numpy-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "3.0-bcolbf"
+  }, 
+  {
+    "hashtag": "cb7c886ecd206cb913ee2addf555e7d8", 
+    "name": "py2-oamap", 
+    "package_type": "external", 
+    "ver_suffix": "0.12.4-bcolbf3"
+  }, 
+  {
+    "hashtag": "f92007e6308d1bed8d050bc7566ed0b4", 
+    "name": "py2-onnx", 
+    "package_type": "external", 
+    "ver_suffix": "1.6.0-bemhoe"
+  }, 
+  {
+    "hashtag": "02d22a4e964edf5d8b4588902706b82b", 
+    "name": "py2-opt-einsum", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.2"
+  }, 
+  {
+    "hashtag": "eac42244568d4fa5658ca22c41bdb160", 
+    "name": "py2-ordereddict", 
+    "package_type": "external", 
+    "ver_suffix": "1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "212e26f33c9325784e97d71cb93f1788", 
+    "name": "py2-packaging", 
+    "package_type": "external", 
+    "ver_suffix": "19.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "690e33c5457bf847583d0309408508ac", 
+    "name": "py2-pandas", 
+    "package_type": "external", 
+    "ver_suffix": "0.24.2-bcolbf"
+  }, 
+  {
+    "hashtag": "ab76201264a63cb6c3964fb612fb55de", 
+    "name": "py2-pandocfilters", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "892d591b8ae0a45c47890b6d2f67f4db", 
+    "name": "py2-parsimonious", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.1-nmpfii3"
+  }, 
+  {
+    "hashtag": "c981add038c2b1b63b46f03278487cde", 
+    "name": "py2-parso", 
+    "package_type": "external", 
+    "ver_suffix": "0.5.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "629cc447ea6e6bc1394a399b7395fe7c", 
+    "name": "py2-pathlib2", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "e57debe0940cfd1eb44e777b15f3d410", 
+    "name": "py2-pbr", 
+    "package_type": "external", 
+    "ver_suffix": "5.4.3-nmpfii"
+  }, 
+  {
+    "hashtag": "0e318d648bbc6bacf51f38430f41b741", 
+    "name": "py2-pexpect", 
+    "package_type": "external", 
+    "ver_suffix": "4.7.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "4f1fa220e39c4eecc89feacaef605a7f", 
+    "name": "py2-pickleshare", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.5-nmpfii4"
+  }, 
+  {
+    "hashtag": "b4bc333083b65fcfe3340992922e0ba2", 
+    "name": "py2-pillow", 
+    "package_type": "external", 
+    "ver_suffix": "6.2.1-bemhoe"
+  }, 
+  {
+    "hashtag": "a2c7d581e5f1bab00535e9f07a41cd43", 
+    "name": "py2-pip", 
+    "package_type": "external", 
+    "ver_suffix": "9.0.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "0e26e8dc68389d34ffbf662c2cc60925", 
+    "name": "py2-pkgconfig", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "d7d706f26e21b5137bcbbc6823d13b59", 
+    "name": "py2-plac", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.3"
+  }, 
+  {
+    "hashtag": "3fcbc29642cbf10e22e92a9769996ae0", 
+    "name": "py2-pluggy", 
+    "package_type": "external", 
+    "ver_suffix": "0.13.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "d5c5d7bd82582e8b66f89840943a7e16", 
+    "name": "py2-ply", 
+    "package_type": "external", 
+    "ver_suffix": "3.11-nmpfii2"
+  }, 
+  {
+    "hashtag": "63734fa81dd53793259328c35c00312a", 
+    "name": "py2-prettytable", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "c83d4d2e930eb5454abcf0d916937514", 
+    "name": "py2-prometheus_client", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.1-nmpfii"
+  }, 
+  {
+    "hashtag": "581cb9400c7ac3740f58ccf359c495d0", 
+    "name": "py2-prompt_toolkit", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.18-nmpfii"
+  }, 
+  {
+    "hashtag": "45fabfa1ee1b51702990e0ba33505007", 
+    "name": "py2-protobuf", 
+    "package_type": "external", 
+    "ver_suffix": "3.10.0-nmpfii"
+  }, 
+  {
+    "hashtag": "83749b8a388c4282fe7a32a194919a6a", 
+    "name": "py2-prwlock", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "c02a0971ab90ee1ed5f283a2354aaa3a", 
+    "name": "py2-psutil", 
+    "package_type": "external", 
+    "ver_suffix": "5.6.5"
+  }, 
+  {
+    "hashtag": "175530ee002c81b502863101b8b3e6b4", 
+    "name": "py2-ptyprocess", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "e74d7da7e1023765afe88d9148078eb2", 
+    "name": "py2-py", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "a112ce670704c28e0cd99c34309c7b35", 
+    "name": "py2-pyOpenSSL", 
+    "package_type": "external", 
+    "ver_suffix": "19.0.0-nmpfii4"
+  }, 
+  {
+    "hashtag": "736008e925a27718d09a29f94241e24e", 
+    "name": "py2-pyasn1", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.7-nmpfii"
+  }, 
+  {
+    "hashtag": "38d70217e2c9ed6086345f367b3d2137", 
+    "name": "py2-pyasn1-modules", 
+    "package_type": "external", 
+    "ver_suffix": "0.2.7"
+  }, 
+  {
+    "hashtag": "7c83faa2485e7f68f5eeebd25651cce3", 
+    "name": "py2-pybind11", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.3"
+  }, 
+  {
+    "hashtag": "32635ee89879a76d9570aeaad7f31812", 
+    "name": "py2-pybind11-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "547349c1d42c81ae7d1497d613d2c29d", 
+    "name": "py2-pybrain", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.3-bcolbf"
+  }, 
+  {
+    "hashtag": "2339b99316dbf610aa380654f4d69b58", 
+    "name": "py2-pycodestyle", 
+    "package_type": "external", 
+    "ver_suffix": "2.5.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "0e07652edee42f55bf9088f96ae76a00", 
+    "name": "py2-pycparser", 
+    "package_type": "external", 
+    "ver_suffix": "2.19-nmpfii2"
+  }, 
+  {
+    "hashtag": "9deb30a7a2846a1569c0e7f0dc9cbfc4", 
+    "name": "py2-pycuda", 
+    "package_type": "external", 
+    "ver_suffix": "2019.1.2-pfdnen"
+  }, 
+  {
+    "hashtag": "b5367330fc78ee8f36e5ad36ce12d7cd", 
+    "name": "py2-pycurl", 
+    "package_type": "external", 
+    "ver_suffix": "7.43.0.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "feac5b68bfbec76fc8db63820c108da6", 
+    "name": "py2-pydot", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.1-nmpfii3"
+  }, 
+  {
+    "hashtag": "611cd962308530e33fc886e10eca8cf7", 
+    "name": "py2-pyflakes", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "991d1a6e19ac82003d14c86a63b92097", 
+    "name": "py2-pygithub", 
+    "package_type": "external", 
+    "ver_suffix": "1.23.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "53141840c9732b0ab3a25b8d9b759a9f", 
+    "name": "py2-pylint", 
+    "package_type": "external", 
+    "ver_suffix": "1.9.5-nmpfii3"
+  }, 
+  {
+    "hashtag": "cb826d0a266b02c2d7a990053b459d2d", 
+    "name": "py2-pymongo", 
+    "package_type": "external", 
+    "ver_suffix": "3.9.0-nmpfii"
+  }, 
+  {
+    "hashtag": "d7031e776f59fc4ab927f7539c13d036", 
+    "name": "py2-pyparsing", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.5"
+  }, 
+  {
+    "hashtag": "870ef96abd8d6f9cbcdf1434f70fcfe6", 
+    "name": "py2-pyrsistent", 
+    "package_type": "external", 
+    "ver_suffix": "0.15.5-nmpfii"
+  }, 
+  {
+    "hashtag": "6c74ead512971107888a23d269119bea", 
+    "name": "py2-pysqlite", 
+    "package_type": "external", 
+    "ver_suffix": "2.8.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "7ea07cc2ad9f824962db8feda9f0b245", 
+    "name": "py2-pytest", 
+    "package_type": "external", 
+    "ver_suffix": "4.6.6-nmpfii"
+  }, 
+  {
+    "hashtag": "d9f8ecfdb56400e5947b9610b0ef829c", 
+    "name": "py2-pytest-cov", 
+    "package_type": "external", 
+    "ver_suffix": "2.8.1-nmpfii"
+  }, 
+  {
+    "hashtag": "2c354540330a3557b53e2d57f3b41161", 
+    "name": "py2-python-cjson", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "7fd00cd20923f4a184a7835e804b7b39", 
+    "name": "py2-python-dateutil", 
+    "package_type": "external", 
+    "ver_suffix": "2.8.1-nmpfii"
+  }, 
+  {
+    "hashtag": "15f956447f66ee723a7c7abccfc5b983", 
+    "name": "py2-python-ldap", 
+    "package_type": "external", 
+    "ver_suffix": "3.2.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "f8b35d58110ad09792a31062ccd07100", 
+    "name": "py2-pytools", 
+    "package_type": "external", 
+    "ver_suffix": "2019.1.1-bcolbf"
+  }, 
+  {
+    "hashtag": "e4e70ac06dd08c5e69b306e0a1d82748", 
+    "name": "py2-pytz", 
+    "package_type": "external", 
+    "ver_suffix": "2019.3"
+  }, 
+  {
+    "hashtag": "1cead271edb6d368995e10b8a25aa7f6", 
+    "name": "py2-pyzmq", 
+    "package_type": "external", 
+    "ver_suffix": "18.1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "a24bc84529552dd8158a628bd1de12b7", 
+    "name": "py2-qtconsole", 
+    "package_type": "external", 
+    "ver_suffix": "4.5.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "aede2b8a12d39f7f1f30817b9b760aec", 
+    "name": "py2-rep", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.6-bcolbf2"
+  }, 
+  {
+    "hashtag": "146570f6d2c5d56e2b61311fbc4c68e2", 
+    "name": "py2-repoze-lru", 
+    "package_type": "external", 
+    "ver_suffix": "0.7-nmpfii2"
+  }, 
+  {
+    "hashtag": "0e450ca30b5de7222b09f9a3b5e25111", 
+    "name": "py2-requests", 
+    "package_type": "external", 
+    "ver_suffix": "2.22.0-nmpfii3"
+  }, 
+  {
+    "hashtag": "7f4241108f6916e7aef6325473258994", 
+    "name": "py2-root_numpy", 
+    "package_type": "external", 
+    "ver_suffix": "4.8.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "060443975e7fa1ed650602ab2be89d78", 
+    "name": "py2-root_pandas", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "1a73af62d61801b3ae08b320c17eae59", 
+    "name": "py2-rootpy", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.1-bcolbf3"
+  }, 
+  {
+    "hashtag": "b3ceb8213100d12dd66919d230975b3a", 
+    "name": "py2-scandir", 
+    "package_type": "external", 
+    "ver_suffix": "1.10.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "f9751c7932259606880c46b0dde844c7", 
+    "name": "py2-schema", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.1-nmpfii"
+  }, 
+  {
+    "hashtag": "998d996cceea88ba054a8bdf6ab62c21", 
+    "name": "py2-scikit-learn", 
+    "package_type": "external", 
+    "ver_suffix": "0.20.4-bcolbf"
+  }, 
+  {
+    "hashtag": "e476a15d6982c80c124361d5e1ad276e", 
+    "name": "py2-scipy", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.2-bcolbf"
+  }, 
+  {
+    "hashtag": "6e6f04aeebcebc8637167cd5b134f469", 
+    "name": "py2-seaborn", 
+    "package_type": "external", 
+    "ver_suffix": "0.9.0-pfdnen"
+  }, 
+  {
+    "hashtag": "f45f7a3e798f76117f7f466e61ace2f7", 
+    "name": "py2-setuptools", 
+    "package_type": "external", 
+    "ver_suffix": "41.2.0-nmpfii"
+  }, 
+  {
+    "hashtag": "d9f84340721969e9be30c234b2513e42", 
+    "name": "py2-simplegeneric", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "8e84ab55c5a10de69e3c27a87eac3b44", 
+    "name": "py2-singledispatch", 
+    "package_type": "external", 
+    "ver_suffix": "3.4.0.3-nmpfii3"
+  }, 
+  {
+    "hashtag": "82bd353a60fa0c1847fc28b6a141e88d", 
+    "name": "py2-six", 
+    "package_type": "external", 
+    "ver_suffix": "1.13.0"
+  }, 
+  {
+    "hashtag": "65f40603ba33e9b9b14126f59a60902b", 
+    "name": "py2-smmap2", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.5-nmpfii2"
+  }, 
+  {
+    "hashtag": "f1bcfdfc02310ff0a55b00e3ec2ad1b6", 
+    "name": "py2-soupsieve", 
+    "package_type": "external", 
+    "ver_suffix": "1.9.5"
+  }, 
+  {
+    "hashtag": "33c2313423e44fc64a688cd7fc15454b", 
+    "name": "py2-sqlalchemy", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.11"
+  }, 
+  {
+    "hashtag": "1da880d2162915d2ec818a84e4367618", 
+    "name": "py2-stevedore", 
+    "package_type": "external", 
+    "ver_suffix": "1.31.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "0d310a8241566a5e79bd1be9ce7a0ca0", 
+    "name": "py2-subprocess32", 
+    "package_type": "external", 
+    "ver_suffix": "3.5.4-nmpfii2"
+  }, 
+  {
+    "hashtag": "ff429fc54496195dcd9ffe74c63330c2", 
+    "name": "py2-sympy", 
+    "package_type": "external", 
+    "ver_suffix": "1.4-nmpfii2"
+  }, 
+  {
+    "hashtag": "8ad2e592b4c4ad5c60a266b969db8c3d", 
+    "name": "py2-tables", 
+    "package_type": "external", 
+    "ver_suffix": "3.5.2-bcolbf"
+  }, 
+  {
+    "hashtag": "4f87edc08eadffa5f3709ff5e4508f07", 
+    "name": "py2-tensorboard", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.0-bcolbf"
+  }, 
+  {
+    "hashtag": "6e26fd35f7e6ed53364f81556165e21c", 
+    "name": "py2-tensorflow", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "46db22eaa56aef3794a0a61c97bee58a", 
+    "name": "py2-tensorflow-estimator", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0"
+  }, 
+  {
+    "hashtag": "8b11f326a419aedf654dfe12aadc7a50", 
+    "name": "py2-termcolor", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "30301e00b61596a556c723cda69e8e3b", 
+    "name": "py2-terminado", 
+    "package_type": "external", 
+    "ver_suffix": "0.8.3"
+  }, 
+  {
+    "hashtag": "2ca4f69d304397c171e4c551bf0fad35", 
+    "name": "py2-testpath", 
+    "package_type": "external", 
+    "ver_suffix": "0.4.4"
+  }, 
+  {
+    "hashtag": "2200b9f301ce02f0bd9219fdecc962a7", 
+    "name": "py2-theanets", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.3-bcolbf"
+  }, 
+  {
+    "hashtag": "6d5e3df6c06245628bb659cc594bacc1", 
+    "name": "py2-thriftpy", 
+    "package_type": "external", 
+    "ver_suffix": "0.3.9-nmpfii2"
+  }, 
+  {
+    "hashtag": "8f6b6007e340f44040085ba061a3bd1a", 
+    "name": "py2-tornado", 
+    "package_type": "external", 
+    "ver_suffix": "5.1.1-nmpfii4"
+  }, 
+  {
+    "hashtag": "c58bae1137b5735579b034dcec3d3deb", 
+    "name": "py2-tqdm", 
+    "package_type": "external", 
+    "ver_suffix": "4.38.0"
+  }, 
+  {
+    "hashtag": "a0d8a7db77c2bfcb29377471f4b7ac5a", 
+    "name": "py2-traitlets", 
+    "package_type": "external", 
+    "ver_suffix": "4.3.3-nmpfii"
+  }, 
+  {
+    "hashtag": "dde6729694e7bae5a9721ca6e8418e1e", 
+    "name": "py2-typing", 
+    "package_type": "external", 
+    "ver_suffix": "3.7.4.1-nmpfii"
+  }, 
+  {
+    "hashtag": "b5865d4db8004fa4e7d704e2aea9e5e7", 
+    "name": "py2-typing_extensions", 
+    "package_type": "external", 
+    "ver_suffix": "3.7.4.1"
+  }, 
+  {
+    "hashtag": "ed7ac0cdfab9e62c11094ce7234bc69a", 
+    "name": "py2-uncertainties", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.2-bcolbf"
+  }, 
+  {
+    "hashtag": "e7370c7eead4f564e355549721f58783", 
+    "name": "py2-uproot", 
+    "package_type": "external", 
+    "ver_suffix": "3.10.11-bcolbf"
+  }, 
+  {
+    "hashtag": "ddf74bdb43f24869ac82ac5dbab3773f", 
+    "name": "py2-uproot-methods", 
+    "package_type": "external", 
+    "ver_suffix": "0.7.1-bcolbf"
+  }, 
+  {
+    "hashtag": "89fd7e3a10df9889305ecc63252ec7a2", 
+    "name": "py2-urllib3", 
+    "package_type": "external", 
+    "ver_suffix": "1.25.7"
+  }, 
+  {
+    "hashtag": "59b0fcfb93d0d4f938ac2aa9347b515f", 
+    "name": "py2-virtualenv", 
+    "package_type": "external", 
+    "ver_suffix": "16.7.7"
+  }, 
+  {
+    "hashtag": "426a9f92cacce1c56a0e6b35867c8c1f", 
+    "name": "py2-virtualenv-clone", 
+    "package_type": "external", 
+    "ver_suffix": "0.5.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "9a2082c553e40c7cd5cd51ce5855ae56", 
+    "name": "py2-virtualenvwrapper", 
+    "package_type": "external", 
+    "ver_suffix": "4.8.4-nmpfii4"
+  }, 
+  {
+    "hashtag": "d7d03519f43667f588d3e7ca4f3ed47e", 
+    "name": "py2-wcwidth", 
+    "package_type": "external", 
+    "ver_suffix": "0.1.7-nmpfii2"
+  }, 
+  {
+    "hashtag": "5661d13b3d3de73c91d8dfd53295252a", 
+    "name": "py2-webencodings", 
+    "package_type": "external", 
+    "ver_suffix": "0.5.1-nmpfii2"
+  }, 
+  {
+    "hashtag": "0f7d7746b140a86fd3ce6f80acdb11b5", 
+    "name": "py2-wheel", 
+    "package_type": "external", 
+    "ver_suffix": "0.33.6-nmpfii"
+  }, 
+  {
+    "hashtag": "e4f9ebbb549910834e4a91271342d2a1", 
+    "name": "py2-widgetsnbextension", 
+    "package_type": "external", 
+    "ver_suffix": "3.5.1-bcolbf"
+  }, 
+  {
+    "hashtag": "e2a50e181e787abb66395ef278b3b5d2", 
+    "name": "py2-wrapt", 
+    "package_type": "external", 
+    "ver_suffix": "1.11.2-nmpfii2"
+  }, 
+  {
+    "hashtag": "012ca3e2ea2ef76fa8501d68781a1e74", 
+    "name": "py2-xgboost", 
+    "package_type": "external", 
+    "ver_suffix": "0.82-bcolbf"
+  }, 
+  {
+    "hashtag": "ef88f6b838ec8fb58014ae9c70197f45", 
+    "name": "py2-xrootdpyfs", 
+    "package_type": "external", 
+    "ver_suffix": "0.1.6-nmpfii2"
+  }, 
+  {
+    "hashtag": "260033158e13ac8500d31aa6487a893e", 
+    "name": "py2-zipp", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "ac1f67c9a5b2af48e6cd641705daa20d", 
+    "name": "py3-GitPython", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.4"
+  }, 
+  {
+    "hashtag": "aef125cf0486f5cb0ed3c8c54c9a9fdb", 
+    "name": "py3-astroid", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.3"
+  }, 
+  {
+    "hashtag": "1dc7b5e1bb44a3d37ad7648c6938948f", 
+    "name": "py3-histogrammar", 
+    "package_type": "external", 
+    "ver_suffix": "1.0.10-nmpfii"
+  }, 
+  {
+    "hashtag": "342695330f1025edcc52df6902a8bfb0", 
+    "name": "py3-ipykernel", 
+    "package_type": "external", 
+    "ver_suffix": "5.1.3-nmpfii"
+  }, 
+  {
+    "hashtag": "3758fffcfb83d7e776e5accbc458e333", 
+    "name": "py3-ipython", 
+    "package_type": "external", 
+    "ver_suffix": "7.9.0-nmpfii"
+  }, 
+  {
+    "hashtag": "e286b268072119d1ef47f0dcb1ba1f6f", 
+    "name": "py3-jupyter_console", 
+    "package_type": "external", 
+    "ver_suffix": "6.0.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "1f27deae915ea7fa29107e75e764b54d", 
+    "name": "py3-matplotlib", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.1-pfdnen"
+  }, 
+  {
+    "hashtag": "bd240d160bc75c7be85b864c643a7928", 
+    "name": "py3-more-itertools", 
+    "package_type": "external", 
+    "ver_suffix": "7.2.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "8fcce75dbc6b3da13b2913c842989c9a", 
+    "name": "py3-networkx", 
+    "package_type": "external", 
+    "ver_suffix": "2.4"
+  }, 
+  {
+    "hashtag": "99fd6c799767de84cd1d587c9b8886ed", 
+    "name": "py3-notebook", 
+    "package_type": "external", 
+    "ver_suffix": "6.0.2-bcolbf"
+  }, 
+  {
+    "hashtag": "1fbf6ca406fe2cf6f542fe85413e314c", 
+    "name": "py3-numpy", 
+    "package_type": "external", 
+    "ver_suffix": "1.17.4-bcolbf"
+  }, 
+  {
+    "hashtag": "b7b2383ae0c2f7573dfe7f45c994d4f9", 
+    "name": "py3-opt-einsum", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.0"
+  }, 
+  {
+    "hashtag": "b28c190c3cfa986f3f17b7f2d38e3685", 
+    "name": "py3-pandas", 
+    "package_type": "external", 
+    "ver_suffix": "0.25.3-bcolbf"
+  }, 
+  {
+    "hashtag": "cea482db172e493fe312c8fa19e2508d", 
+    "name": "py3-prompt_toolkit", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.10-nmpfii"
+  }, 
+  {
+    "hashtag": "d8bf9a9a00d4638c35c6fd51116a2c2f", 
+    "name": "py3-pylint", 
+    "package_type": "external", 
+    "ver_suffix": "2.4.3-nmpfii"
+  }, 
+  {
+    "hashtag": "046c6da8c9841455b9ddb4ff014af7a3", 
+    "name": "py3-pytest", 
+    "package_type": "external", 
+    "ver_suffix": "5.2.2-nmpfii"
+  }, 
+  {
+    "hashtag": "5cd0fc1674d866fd3f220c80a6b36421", 
+    "name": "py3-scikit-learn", 
+    "package_type": "external", 
+    "ver_suffix": "0.21.3-bcolbf"
+  }, 
+  {
+    "hashtag": "ee1d53525f07f6a68ac93d1253b65c24", 
+    "name": "py3-scipy", 
+    "package_type": "external", 
+    "ver_suffix": "1.3.2-bcolbf"
+  }, 
+  {
+    "hashtag": "0d7e45312342f41d02ced2b23f0e09d5", 
+    "name": "py3-tables", 
+    "package_type": "external", 
+    "ver_suffix": "3.6.1-bcolbf"
+  }, 
+  {
+    "hashtag": "f2eb0d048f5f670073f503e47ae0d9b7", 
+    "name": "py3-tensorboard", 
+    "package_type": "external", 
+    "ver_suffix": "2.0.0-bcolbf"
+  }, 
+  {
+    "hashtag": "ecf51b1a59991caca80008ed1e12ba0c", 
+    "name": "py3-tensorflow", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "8d8c363a0d3e131095f0110a3c9a6fc6", 
+    "name": "py3-tornado", 
+    "package_type": "external", 
+    "ver_suffix": "6.0.3-nmpfii2"
+  }, 
+  {
+    "hashtag": "11eff6e9f30109681fb57bc9d2bdd6d0", 
+    "name": "py3-typed-ast", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.0-nmpfii"
+  }, 
+  {
+    "hashtag": "7223c245da6f97df8a579a760cf45e22", 
+    "name": "py3-xgboost", 
+    "package_type": "external", 
+    "ver_suffix": "0.90-bcolbf"
+  }, 
+  {
+    "hashtag": "43c0f0bec6f1cb88dc3723b6a4538b59", 
+    "name": "pyminuit2", 
+    "package_type": "external", 
+    "ver_suffix": "0.0.1-bcolbf3"
+  }, 
+  {
+    "hashtag": "f92e81219f5f29da9d0e71b84d88e4a3", 
+    "name": "pyminuit2-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "2b0b1d61be7e2a7159065609afd75d35", 
+    "name": "pyqt", 
+    "package_type": "external", 
+    "ver_suffix": "4.11.4-bemhoe"
+  }, 
+  {
+    "hashtag": "097e29e08b9b42aae7d2c6982372b2a8", 
+    "name": "pyqt-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "7231fb9535c04dd063ff3522272f3ea5", 
+    "name": "pyquen", 
+    "package_type": "external", 
+    "ver_suffix": "1.5.3-nmpfii4"
+  }, 
+  {
+    "hashtag": "c24b1d4c95b68c82563cd28a1e64eb8c", 
+    "name": "pyquen-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii4"
+  }, 
+  {
+    "hashtag": "8d7f0835c9d197ada95243240646f3a9", 
+    "name": "pythia6", 
+    "package_type": "external", 
+    "ver_suffix": "426-pafccj"
+  }, 
+  {
+    "hashtag": "2911c886876fbc0edfb988130658b3a0", 
+    "name": "pythia6-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.1-pafccj"
+  }, 
+  {
+    "hashtag": "4989473975fc7ecadbb825988f505052", 
+    "name": "pythia8", 
+    "package_type": "external", 
+    "ver_suffix": "243"
+  }, 
+  {
+    "hashtag": "73b82640ae574846143f5fb0c8696865", 
+    "name": "pythia8-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii6"
+  }, 
+  {
+    "hashtag": "f23e28afda5fbf5fc1fdff7788252aba", 
+    "name": "python", 
+    "package_type": "external", 
+    "ver_suffix": "2.7.15-pafccj"
+  }, 
+  {
+    "hashtag": "c8d2942a0f1a82b8493f5251282f89a7", 
+    "name": "python-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "c145f9900a25a64dda1c974614c00115", 
+    "name": "python3", 
+    "package_type": "external", 
+    "ver_suffix": "3.6.4-nmpfii"
+  }, 
+  {
+    "hashtag": "451a60a53e48183f5e4e85d6104d29b8", 
+    "name": "python3-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "4ec590db50969ea714e647d3679727f6", 
+    "name": "python_tools", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bcolbf5"
+  }, 
+  {
+    "hashtag": "56c20c4e50e62b69d8437abded1831cc", 
+    "name": "qd", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.13-pafccj"
+  }, 
+  {
+    "hashtag": "8c67ebc636e89c8ba1309eedeae7b284", 
+    "name": "qd-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "f1d7ab8a5bdcc6d6b4f41af6caba923a", 
+    "name": "qgraf", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.4-pafccj"
+  }, 
+  {
+    "hashtag": "f71ba4753844a0c8e5b14fa2476b605e", 
+    "name": "qt", 
+    "package_type": "external", 
+    "ver_suffix": "4.8.7-bemhoe"
+  }, 
+  {
+    "hashtag": "17e33b6898eb055a873b0e5064992d11", 
+    "name": "qt-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bemhoe"
+  }, 
+  {
+    "hashtag": "e0d0123c84cc29257d3958093fa45646", 
+    "name": "rivet", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "4f11b5bac46ec752e7e8c21e578644de", 
+    "name": "rivet-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "8bab0ea0cdb85bd78f5a7a39f3c3e045", 
+    "name": "root", 
+    "package_type": "lcg", 
+    "ver_suffix": "6.18.04-bcolbf3"
+  }, 
+  {
+    "hashtag": "43f9294fd1a29ed867e5b509b0ebfbed", 
+    "name": "root-toolfile", 
+    "package_type": "lcg", 
+    "ver_suffix": "2.1-bcolbf4"
+  }, 
+  {
+    "hashtag": "556ebbd2adcb5f01e217cd5cf1ac7173", 
+    "name": "scons", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.1-pafccj"
+  }, 
+  {
+    "hashtag": "b5e70168b97f1b8c29b45a56d2acfcc5", 
+    "name": "scons-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-pafccj"
+  }, 
+  {
+    "hashtag": "91c57d91b971a4e9858226b09a2bfd35", 
+    "name": "sherpa", 
+    "package_type": "external", 
+    "ver_suffix": "2.2.8-bcolbf4"
+  }, 
+  {
+    "hashtag": "2df5a701b0028e650db1207a665f433b", 
+    "name": "sherpa-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bcolbf4"
+  }, 
+  {
+    "hashtag": "724f76a80813abd6d1b84644ca94b603", 
+    "name": "sigcpp", 
+    "package_type": "external", 
+    "ver_suffix": "2.6.2-pafccj"
+  }, 
+  {
+    "hashtag": "96c13db8677d6f8329c18e96bd69c857", 
+    "name": "sigcpp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "42a18eb3cdf924e9e6b971d9c2fd231d", 
+    "name": "sip", 
+    "package_type": "external", 
+    "ver_suffix": "4.17-pafccj"
+  }, 
+  {
+    "hashtag": "45be511e9e025851f807ff4a025f8546", 
+    "name": "sip-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "6fe32ee92dc35f282c78b73c914d2f39", 
+    "name": "sloccount", 
+    "package_type": "external", 
+    "ver_suffix": "2.26-pafccj"
+  }, 
+  {
+    "hashtag": "77d2bc0d79bb5860ba5cc543bebdf8ab", 
+    "name": "sloccount-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "7e559e85e406a7c03725f5ab678409ea", 
+    "name": "sqlite", 
+    "package_type": "external", 
+    "ver_suffix": "3.22.0-pafccj"
+  }, 
+  {
+    "hashtag": "7edcadf454b9054821780e16db953229", 
+    "name": "sqlite-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "3c5a66854b3ad5a5afa832af0609ab53", 
+    "name": "starlight", 
+    "package_type": "external", 
+    "ver_suffix": "r193-nmpfii"
+  }, 
+  {
+    "hashtag": "5d531cbb5cc3cb43e398bcb087acd355", 
+    "name": "starlight-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "d54866f1233c8ef7206079221fa67755", 
+    "name": "swig", 
+    "package_type": "external", 
+    "ver_suffix": "3.0.10-pafccj"
+  }, 
+  {
+    "hashtag": "e78a36c69008973f34aab63a5fb42da9", 
+    "name": "systemtools", 
+    "package_type": "external", 
+    "ver_suffix": "19"
+  }, 
+  {
+    "hashtag": "41a14bdc8a76ba570f194f666fe6fae5", 
+    "name": "tauola", 
+    "package_type": "external", 
+    "ver_suffix": "27.121.5-pafccj"
+  }, 
+  {
+    "hashtag": "fb8c193ce427676e27190211cded4bf4", 
+    "name": "tauola-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "eaac009b2bbf77433e87d86f7cff2d41", 
+    "name": "tauolapp", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.5-nmpfii6"
+  }, 
+  {
+    "hashtag": "e70263776118df782215a0ca913164da", 
+    "name": "tauolapp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.1.5-nmpfii6"
+  }, 
+  {
+    "hashtag": "b2296fb2a1808067d0ae57148287bb69", 
+    "name": "tbb", 
+    "package_type": "external", 
+    "ver_suffix": "2019_U9"
+  }, 
+  {
+    "hashtag": "b37373afff066b8a7c81140ad510072b", 
+    "name": "tbb-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "30da05fc84b9d33d9f6eedb567921951", 
+    "name": "tensorflow", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "5de2c55c43fde845bceec11af2953617", 
+    "name": "tensorflow-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.0-bcolbf"
+  }, 
+  {
+    "hashtag": "ddf5a21dcab61a29302e2c2ca4d4e939", 
+    "name": "thepeg", 
+    "package_type": "external", 
+    "ver_suffix": "2.1.4-bcolbf3"
+  }, 
+  {
+    "hashtag": "c030e95051c1fb1e2ff10afbe7553804", 
+    "name": "thepeg-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.1-bcolbf3"
+  }, 
+  {
+    "hashtag": "209e3959d3a0e72dc61817ea2081a50d", 
+    "name": "tinyxml2", 
+    "package_type": "external", 
+    "ver_suffix": "6.2.0-nmpfii"
+  }, 
+  {
+    "hashtag": "c19e6d6dab9df67be02f4b9143b74dda", 
+    "name": "tinyxml2-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "75d8cd6cef59d4d2ba834b16efcd81c2", 
+    "name": "tkonlinesw", 
+    "package_type": "external", 
+    "ver_suffix": "4.2.0-1_gcc7-bcolbf3"
+  }, 
+  {
+    "hashtag": "84abeae6f918bfbdbe3689763737effb", 
+    "name": "tkonlinesw-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "9a37e6a11e8058b91f64c3d068c063e1", 
+    "name": "toprex", 
+    "package_type": "external", 
+    "ver_suffix": "4.23-pafccj"
+  }, 
+  {
+    "hashtag": "c79faa73522f63252928d4bfe55a7d3d", 
+    "name": "toprex-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "3efaa16e2b9eb8f79800464dbcdb727f", 
+    "name": "utm", 
+    "package_type": "external", 
+    "ver_suffix": "utm_0.7.5-hpgckg"
+  }, 
+  {
+    "hashtag": "ec112712b40577685a5ab131ef822f15", 
+    "name": "utm-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.1-hpgckg"
+  }, 
+  {
+    "hashtag": "5e26e758e46cce407398a19c76edafa4", 
+    "name": "valgrind", 
+    "package_type": "external", 
+    "ver_suffix": "3.15.0"
+  }, 
+  {
+    "hashtag": "ea586cec99760790cadedf24fa49aae4", 
+    "name": "valgrind-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "b65ab48e5593d7be5594f555cf0cd573", 
+    "name": "vdt", 
+    "package_type": "cms", 
+    "ver_suffix": "0.4.0-nmpfii"
+  }, 
+  {
+    "hashtag": "176840a91cf57bbd3a08dfe7f9a268b1", 
+    "name": "vdt-toolfile", 
+    "package_type": "cms", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "e378334c07c4991c055ba4bd89463d68", 
+    "name": "vecgeom", 
+    "package_type": "external", 
+    "ver_suffix": "v00.05.00-pfdnen"
+  }, 
+  {
+    "hashtag": "98463e79e8c2f7dbd018f9baf6b529a3", 
+    "name": "vecgeom-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pfdnen"
+  }, 
+  {
+    "hashtag": "386a0153f5610c4efaf87dee71fad284", 
+    "name": "vincia", 
+    "package_type": "external", 
+    "ver_suffix": "2.3.02"
+  }, 
+  {
+    "hashtag": "28fcd5a114218bddbbca50a2fad85974", 
+    "name": "vincia-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "2.0-bcolbf"
+  }, 
+  {
+    "hashtag": "368006086fa6bbb0b1a5ab4a81ad21be", 
+    "name": "xerces-c", 
+    "package_type": "external", 
+    "ver_suffix": "3.1.3-pafccj"
+  }, 
+  {
+    "hashtag": "394923b9cfc39b73d895d5f6fdda49e4", 
+    "name": "xerces-c-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "c3440529c9ecfea3967f24651e5a072b", 
+    "name": "xrootd", 
+    "package_type": "external", 
+    "ver_suffix": "4.10.0-nmpfii2"
+  }, 
+  {
+    "hashtag": "0142324cf21bbbe95dbfcddfa0c1dde1", 
+    "name": "xrootd-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii5"
+  }, 
+  {
+    "hashtag": "4f624d25c68e7fb5ee37287e78dc93b2", 
+    "name": "xtensor", 
+    "package_type": "external", 
+    "ver_suffix": "0.20.1-nmpfii"
+  }, 
+  {
+    "hashtag": "7a6c2e0a0471598b218ae76315b7671e", 
+    "name": "xtensor-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "9767e8216148285d913d148a3ed5804c", 
+    "name": "xtl", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.3-nmpfii"
+  }, 
+  {
+    "hashtag": "50a27d4c4ce611625c7007e4264f9ca7", 
+    "name": "xtl-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }, 
+  {
+    "hashtag": "cb246a36734f5e3e558cf4839535328c", 
+    "name": "xz", 
+    "package_type": "external", 
+    "ver_suffix": "5.2.4"
+  }, 
+  {
+    "hashtag": "45e403b2bea8274b59c2dfdafd11c096", 
+    "name": "xz-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.1-nmpfii"
+  }, 
+  {
+    "hashtag": "f9d4cf9ff69d940eb0899c23b705cd08", 
+    "name": "yaml-cpp", 
+    "package_type": "external", 
+    "ver_suffix": "0.6.2-hpgckg"
+  }, 
+  {
+    "hashtag": "8bfb47f45f89c0d2e6af2ff09db4a5bd", 
+    "name": "yaml-cpp-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-hpgckg"
+  }, 
+  {
+    "hashtag": "309ceb89b87f1985a8e6b2224f355a94", 
+    "name": "yoda", 
+    "package_type": "external", 
+    "ver_suffix": "1.8.0-bcolbf"
+  }, 
+  {
+    "hashtag": "aeee5cb070f76f49835f7a9b96a28fb0", 
+    "name": "yoda-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-bcolbf3"
+  }, 
+  {
+    "hashtag": "316539f3109e47f00c594d6eb5b71bc1", 
+    "name": "zlib", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "a03b8d0a8c4961db32bc6aeb5e0723b5", 
+    "name": "zlib-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-pafccj"
+  }, 
+  {
+    "hashtag": "8ff60481699006ca11f280ced09b8bcf", 
+    "name": "zlib-x86_64", 
+    "package_type": "external", 
+    "ver_suffix": "1.2.11-pafccj"
+  }, 
+  {
+    "hashtag": "33351e1fa4786f130e227e9da4f4ef38", 
+    "name": "zstd", 
+    "package_type": "external", 
+    "ver_suffix": "1.4.0-nmpfii"
+  }, 
+  {
+    "hashtag": "fe9d196bc5118cd5990f52cd932c1abf", 
+    "name": "zstd-toolfile", 
+    "package_type": "external", 
+    "ver_suffix": "1.0-nmpfii"
+  }
+]
