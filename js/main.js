@@ -26,11 +26,12 @@ $('.arch').on('click', 'a' ,function(e) {
   var arch = this.text
   $(arch_button_id).text(arch);
   // on selecting arch, reset the ib button text to default
+  $('#'+ib_button_id).text('Release');
   let ibs_list = arch_ib_json.filter(el => el.arch == arch)[0].ibs.sort();
   //console.log('ib list:' , ibs_list)
   ib_dd = document.querySelectorAll("[aria-labelledby="+ib_button_id+"]")[0]
   //console.log(ib_dd)
-
+  
   ibs_list.forEach( function(i) {
     //console.log(i)
     var link = document.createElement("a");
